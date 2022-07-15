@@ -14,9 +14,11 @@ On these pages, you will find videos, documents and other useful resources on to
 ## Installation
 One of the first skills to learn is how to install Oracle Linux. These videos go through this process step-by-step and complete a Linux installation.
 ### Videos
-![](common/images/installol8.jpg)   ![](common/images/installoci.jpg)
+![](common/images/installol8.jpg)
+[Installing Oracle Linux 8](https://youtu.be/l6fapYCHaQ0)
 
- [Installing Oracle Linux 8](https://youtu.be/l6fapYCHaQ0)   [Install Oracle Linux on Oracle Cloud Infrastructure](https://youtu.be/ETpaOwAcB7M)
+![](common/images/installoci.jpg)
+[Install Oracle Linux on Oracle Cloud Infrastructure](https://youtu.be/ETpaOwAcB7M)
 
 Oracle Learning Library is the place to explore Oracle Linux using free videos and hands-on tutorials and labs. These materials will enhance your knowledge and experience using Oracle Linux on the Cloud and On-Premises. Our library of training material covers everything from how to install the highly performant and secure operating environment, to configuring virtualization, automation, and cloud native computing tools. Bring your own environment, or use an Oracle-provided free lab environment.
 
