@@ -2,7 +2,7 @@
 ![](common/images/OL-1200x200-banner.png)
 ---
 # Welcome to Oracle Linux Training
-This site provides you information to help you grow your skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
+This site is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
 
 On these pages, you will find videos, documents and other useful resources on topics such as:
 
@@ -36,6 +36,23 @@ One of the first skills to learn is how to install Oracle Linux. These videos go
 [systemd Target Units on Oracle Linux](https://youtu.be/Tkxs-wfZrnw)
 
 ### Hands On Labs
+![](common/images/boot_kernel.png)
+[Manage the Boot Kernel for Oracle Linux](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
+
+![](common/images/localize.png)
+[Learn How to Localize Your Installation on Oracle Linux](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)
+
+![](common/images/sysctl.png)
+[Configure System Settings on Oracle Linux](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
+
+![](common/images/systemd.jpg)
+[Use systemd on Oracle Linux](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
+
+![](common/images/centos.png)
+[Switch from CentOS 8 to Oracle Linux 8](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
+
+
+
 
 Oracle Learning Library is the place to explore Oracle Linux using free videos and hands-on tutorials and labs. These materials will enhance your knowledge and experience using Oracle Linux on the Cloud and On-Premises. Our library of training material covers everything from how to install the highly performant and secure operating environment, to configuring virtualization, automation, and cloud native computing tools. Bring your own environment, or use an Oracle-provided free lab environment.
 
