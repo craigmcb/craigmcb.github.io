@@ -62,44 +62,44 @@ Learn how to administer Oracle Linux. These tasks are applicable for on-premises
 ### Videos
 These short videos go through some common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, configure networking, and explore the proc and sysfs file systems to view and configure system hardware and system processes.
 
-![](common/images/installol8.jpg)
-[System Configuration Date and Time](https://youtu.be/l6fapYCHaQ0)
+![](common/images/date_time.jpg)
+[System Configuration Date and Time](https://youtu.be/q8VlYiF5sx8)
 
-![](common/images/installol8.jpg)
-[System Configuration Proc File System](https://youtu.be/l6fapYCHaQ0)
+![](common/images/proc.jpg)
+[System Configuration Proc File System](https://youtu.be/1F51ZHAVfAk)
 
-![](common/images/installol8.jpg)
-[System Configuration Sysfs File System](https://youtu.be/l6fapYCHaQ0)
+![](common/images/sysfs.jpg)
+[System Configuration Sysfs File System](https://youtu.be/j9x2cuOE5_Y)
 
-![](common/images/installol8.jpg)
-[Oracle Linux Automating Tasks Cron Utility](https://youtu.be/l6fapYCHaQ0)
+![](common/images/cron.jpg)
+[Oracle Linux Automating Tasks Cron Utility](https://youtu.be/BpPGoRYTv9I)
 
-![](common/images/installol8.jpg)
-[Oracle Linux Automating Tasks Anacron, At, and Batch Utilities](https://youtu.be/l6fapYCHaQ0)
+![](common/images/anacron.jpg)
+[Oracle Linux Automating Tasks Anacron, At, and Batch Utilities](https://youtu.be/EIV3lpTeqXo)
 
-![](common/images/installol8.jpg)
-[Oracle Linux Kernel Module Configuration](https://youtu.be/l6fapYCHaQ0)
+![](common/images/kernelmod.jpg)
+[Oracle Linux Kernel Module Configuration](https://youtu.be/AeW42ZyzHrQ)
 
-![](common/images/installol8.jpg)
-[Oracle Linux Users and Groups](https://youtu.be/l6fapYCHaQ0)
+![](common/images/users.jpg)
+[Oracle Linux Users and Groups](https://youtu.be/fag6aHNUkdQ)
 
-![](common/images/installol8.jpg)
-[Oracle Linux Password Aging and Su](https://youtu.be/l6fapYCHaQ0)
+![](common/images/passwrd.jpg)
+[Oracle Linux Password Aging and Su](https://youtu.be/WrcnDpj3axQ)
 
-![](common/images/installol8.jpg)
-[Configure and Connect to an FTP Server on Oracle Linux](https://youtu.be/l6fapYCHaQ0)
+![](common/images/ftp.jpg)
+[Configure and Connect to an FTP Server on Oracle Linux](https://youtu.be/xpBBUPLEkZg)
 
-![](common/images/installol8.jpg)
-[Introduction to Using vim on Oracle Linux](https://youtu.be/l6fapYCHaQ0)
+![](common/images/vim.jpg)
+[Introduction to Using vim on Oracle Linux](https://youtu.be/5xKldV3knzU)
 
-![](common/images/installol8.jpg)
-[Oracle Linux Upgrades with Leapp](https://youtu.be/l6fapYCHaQ0)
+![](common/images/leapp.jpg)
+[Oracle Linux Upgrades with Leapp](https://youtu.be/pk6tgzGpAU4)
 
-![](common/images/installol8.jpg)
-[Introduction to Control Groups on Oracle Linux](https://youtu.be/l6fapYCHaQ0)
+![](common/images/cgroups.png)
+[Introduction to Control Groups on Oracle Linux](https://youtu.be/AiYK0VBW7e4)
 
-![](common/images/installol8.jpg)
-[SELinux Basics on Oracle Linux](https://youtu.be/l6fapYCHaQ0)
+![](common/images/selinux.jpg)
+[SELinux Basics on Oracle Linux](https://youtu.be/meKjLOxEu_o)
 
 
 Oracle Learning Library is the place to explore Oracle Linux using free videos and hands-on tutorials and labs. These materials will enhance your knowledge and experience using Oracle Linux on the Cloud and On-Premises. Our library of training material covers everything from how to install the highly performant and secure operating environment, to configuring virtualization, automation, and cloud native computing tools. Bring your own environment, or use an Oracle-provided free lab environment.
