@@ -33,8 +33,9 @@ One of the first skills to learn is how to install Oracle Linux. These videos go
 [systemd System and Service Manager on Oracle Linux](https://youtu.be/9uDvnZKhU8A)
 
 ![](common/images/systemdtargets.jpg)
-[systemd Target Units on Oracle Linux](https://youtu.be/Tkxs-wfZrnw))
+[systemd Target Units on Oracle Linux](https://youtu.be/Tkxs-wfZrnw)
 
+### Hands On Labs
 
 Oracle Learning Library is the place to explore Oracle Linux using free videos and hands-on tutorials and labs. These materials will enhance your knowledge and experience using Oracle Linux on the Cloud and On-Premises. Our library of training material covers everything from how to install the highly performant and secure operating environment, to configuring virtualization, automation, and cloud native computing tools. Bring your own environment, or use an Oracle-provided free lab environment.
 
