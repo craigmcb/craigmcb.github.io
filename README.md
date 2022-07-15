@@ -12,8 +12,11 @@ On these pages, you will find videos, documents and other useful resources on to
 - Applying resources using fully-featured enterprise software
 
 ## Installation
-One of the first skills to learn is how to install Oracle Linux. These videos go through this process step-by-step and complete a Linux installation.
+One of the first skills to learn is how to install Oracle Linux.
+
 ### Videos
+These videos focus on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux 8 installation for on-premises deployment and how to create an Oracle Linux 8 instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
+
 ![](common/images/installol8.jpg)
 [Installing Oracle Linux 8](https://youtu.be/l6fapYCHaQ0)
 
@@ -36,6 +39,8 @@ One of the first skills to learn is how to install Oracle Linux. These videos go
 [systemd Target Units on Oracle Linux](https://youtu.be/Tkxs-wfZrnw)
 
 ### Hands On Labs
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
 ![](common/images/boot_kernel.png)
 [Manage the Boot Kernel for Oracle Linux](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
 
