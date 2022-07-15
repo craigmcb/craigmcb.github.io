@@ -6,10 +6,10 @@ This site provides you information to help you grow your skillset using Oracle L
 
 On these pages, you will find videos, documents and other useful resources on topics such as:
 
-Installing the Operating System
-Technologies and components included in the Oracle Linux operating environment
-Building systems to suit your needs, whether development or production, physical or virtual
-Applying resources using fully-featured enterprise software
+- Installing the Operating System
+- Technologies and components included in the Oracle Linux operating environment
+- Building systems to suit your needs, whether development or production, physical or virtual
+- Applying resources using fully-featured enterprise software
 
 Oracle Learning Library is the place to explore Oracle Linux using free videos and hands-on tutorials and labs. These materials will enhance your knowledge and experience using Oracle Linux on the Cloud and On-Premises. Our library of training material covers everything from how to install the highly performant and secure operating environment, to configuring virtualization, automation, and cloud native computing tools. Bring your own environment, or use an Oracle-provided free lab environment.
 
