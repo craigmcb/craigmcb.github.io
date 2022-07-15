@@ -21,7 +21,7 @@ One of the first skills to learn is how to install Oracle Linux. These videos go
 [Install Oracle Linux on Oracle Cloud Infrastructure](https://youtu.be/ETpaOwAcB7M)
 
 ![](common/images/bios.jpg)
-[BIOS Firmware Bootloader Process on Oracle Linux](https://youtu.be/ETpaOwAcB7M)
+[BIOS Firmware Bootloader Process on Oracle Linux](https://youtu.be/NP9BHTjih7g)
 
 ![](common/images/grub2.jpg)
 [GRUB 2 on Oracle Linux](https://youtu.be/0dv87RFGcKI)
