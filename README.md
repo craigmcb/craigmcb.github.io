@@ -56,6 +56,19 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 ![](common/images/centos.png)
 [Switch from CentOS 8 to Oracle Linux 8](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
 
+## Administration
+Learn how to administer Oracle Linux. These tasks are applicable for on-premises systems or Oracle Cloud Infrastructure instances.
+
+### Videos
+These short videos go through some common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to:
+- configure the system date and time
+- automate tasks
+- dynamically load and unload kernel modules
+- configure users and groups
+- configure networking
+- explore the proc and sysfs file systems to view and configure system hardware and system processes
+
+
 
 
 
