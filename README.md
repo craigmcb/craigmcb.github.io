@@ -14,9 +14,7 @@ On these pages, you will find videos, documents and other useful resources on to
 ## Installation
 One of the first skills to learn is how to install Oracle Linux. These videos go through this process step-by-step and complete a Linux installation.
 ### Videos
-![](common/images/installol8.jpg)
-
-![](common/images/installoci.jpg)
+![](common/images/installol8.jpg) ![](common/images/installoci.jpg)
 
  [Installing Oracle Linux 8](https://youtu.be/l6fapYCHaQ0)
  [Install Oracle Linux on Oracle Cloud Infrastructure](https://youtu.be/ETpaOwAcB7M)
