@@ -45,7 +45,7 @@ One of the first skills to learn is how to install Oracle Linux. These videos go
 ![](common/images/sysctl.png)
 [Configure System Settings on Oracle Linux](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
 
-![](common/images/systemd.jpg)
+![](common/images/systemd_lab.png)
 [Use systemd on Oracle Linux](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
 
 ![](common/images/centos.png)
