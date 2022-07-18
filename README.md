@@ -18,6 +18,7 @@ One of the first skills to learn is how to install Oracle Linux.
 These videos focus on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux 8 installation for on-premises deployment and how to create an Oracle Linux 8 instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
 
 [Installing Oracle Linux 8](https://youtu.be/l6fapYCHaQ0)
+
 ![](common/images/installol8.jpg)
 
 ![](common/images/installoci.jpg)
