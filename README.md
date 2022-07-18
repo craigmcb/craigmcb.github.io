@@ -23,7 +23,10 @@ These videos focus on the installation and boot process. You can learn step-by-s
 <img src="common/images/systemd_tmp.png" alt="systemd" width="325"/>
 <img src="common/images/sysdtrgs_tmp.png" alt="sysdtrgs" width="325"/>
 
-[![](common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)[![](common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)[![](bios)](https://youtu.be/NP9BHTjih7g)[![](grub2.png)](https://youtu.be/0dv87RFGcKI)[![](uefi)](https://youtu.be/OVeso8h5HZA)[![](systemd)](https://youtu.be/9uDvnZKhU8A)[![](sysdtrgs)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)[![](common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)
+
+
+[![](bios)](https://youtu.be/NP9BHTjih7g)[![](grub2.png)](https://youtu.be/0dv87RFGcKI)[![](uefi)](https://youtu.be/OVeso8h5HZA)[![](systemd)](https://youtu.be/9uDvnZKhU8A)[![](sysdtrgs)](https://youtu.be/Tkxs-wfZrnw)
 
 Installing Oracle Linux 8
 
