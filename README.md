@@ -21,41 +21,52 @@ These videos focus on the installation and boot process. You can learn step-by-s
 
 ![](common/images/installol8.jpg)
 
-![](common/images/installoci.jpg)
 [Install Oracle Linux on Oracle Cloud Infrastructure](https://youtu.be/ETpaOwAcB7M)
 
-![](common/images/bios.jpg)
+![](common/images/installoci.jpg)
+
 [BIOS Firmware Bootloader Process on Oracle Linux](https://youtu.be/NP9BHTjih7g)
 
-![](common/images/grub2.jpg)
+![](common/images/bios.jpg)
+
 [GRUB 2 on Oracle Linux](https://youtu.be/0dv87RFGcKI)
 
-![](common/images/uefi.jpg)
+![](common/images/grub2.jpg)
+
 [Unified Extensible Firmware Interface on Oracle Linux](https://youtu.be/OVeso8h5HZA)
 
-![](common/images/systemd.jpg)
+![](common/images/uefi.jpg)
+
 [systemd System and Service Manager on Oracle Linux](https://youtu.be/9uDvnZKhU8A)
 
-![](common/images/systemdtargets.jpg)
+![](common/images/systemd.jpg)
+
 [systemd Target Units on Oracle Linux](https://youtu.be/Tkxs-wfZrnw)
+
+![](common/images/systemdtargets.jpg)
 
 ### Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-![](common/images/boot_kernel.png)
 [Manage the Boot Kernel for Oracle Linux](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
 
-![](common/images/localize.png)
+![](common/images/boot_kernel.png)
+
 [Learn How to Localize Your Installation on Oracle Linux](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)
 
-![](common/images/sysctl.png)
+![](common/images/localize.png)
+
 [Configure System Settings on Oracle Linux](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
 
-![](common/images/systemd_lab.png)
+![](common/images/sysctl.png)
+
 [Use systemd on Oracle Linux](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
 
-![](common/images/centos.png)
+![](common/images/systemd_lab.png)
+
 [Switch from CentOS 8 to Oracle Linux 8](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
+
+![](common/images/centos.png)
 
 ## Administration
 Learn how to administer Oracle Linux. These tasks are applicable for on-premises systems or Oracle Cloud Infrastructure instances.
@@ -63,44 +74,57 @@ Learn how to administer Oracle Linux. These tasks are applicable for on-premises
 ### Videos
 These short videos go through some common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, configure networking, and explore the proc and sysfs file systems to view and configure system hardware and system processes.
 
-![](common/images/date_time.jpg)
 [System Configuration Date and Time](https://youtu.be/q8VlYiF5sx8)
 
-![](common/images/proc.jpg)
+![](common/images/date_time.jpg)
+
 [System Configuration Proc File System](https://youtu.be/1F51ZHAVfAk)
 
-![](common/images/sysfs.jpg)
+![](common/images/proc.jpg)
+
 [System Configuration Sysfs File System](https://youtu.be/j9x2cuOE5_Y)
 
-![](common/images/cron.jpg)
+![](common/images/sysfs.jpg)
+
 [Oracle Linux Automating Tasks Cron Utility](https://youtu.be/BpPGoRYTv9I)
 
-![](common/images/anacron.jpg)
+![](common/images/cron.jpg)
+
 [Oracle Linux Automating Tasks Anacron, At, and Batch Utilities](https://youtu.be/EIV3lpTeqXo)
 
-![](common/images/kernelmod.jpg)
+![](common/images/anacron.jpg)
+
 [Oracle Linux Kernel Module Configuration](https://youtu.be/AeW42ZyzHrQ)
 
-![](common/images/users.jpg)
+![](common/images/kernelmod.jpg)
+
 [Oracle Linux Users and Groups](https://youtu.be/fag6aHNUkdQ)
 
-![](common/images/passwrd.jpg)
+![](common/images/users.jpg)
+
 [Oracle Linux Password Aging and Su](https://youtu.be/WrcnDpj3axQ)
 
-![](common/images/ftp.jpg)
+![](common/images/passwrd.jpg)
+
 [Configure and Connect to an FTP Server on Oracle Linux](https://youtu.be/xpBBUPLEkZg)
 
-![](common/images/vim.jpg)
+![](common/images/ftp.jpg)
+
 [Introduction to Using vim on Oracle Linux](https://youtu.be/5xKldV3knzU)
 
-![](common/images/leapp.jpg)
+![](common/images/vim.jpg)
+
 [Oracle Linux Upgrades with Leapp](https://youtu.be/pk6tgzGpAU4)
 
-![](common/images/cgroups.png)
+![](common/images/leapp.jpg)
+
 [Introduction to Control Groups on Oracle Linux](https://youtu.be/AiYK0VBW7e4)
 
-![](common/images/selinux.jpg)
+![](common/images/cgroups.png)
+
 [SELinux Basics on Oracle Linux](https://youtu.be/meKjLOxEu_o)
+
+![](common/images/selinux.jpg)
 
 
 Oracle Learning Library is the place to explore Oracle Linux using free videos and hands-on tutorials and labs. These materials will enhance your knowledge and experience using Oracle Linux on the Cloud and On-Premises. Our library of training material covers everything from how to install the highly performant and secure operating environment, to configuring virtualization, automation, and cloud native computing tools. Bring your own environment, or use an Oracle-provided free lab environment.
