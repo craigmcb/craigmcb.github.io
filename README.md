@@ -26,13 +26,24 @@ On these pages, you will find videos, documents and other useful resources on to
 - Using the most common tools and features of Linux
 
 ### Introduction to Oracle Linux Videos
-[![](common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)
-[![](common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)
-[![](common/images/bios_tmp.png)](https://youtu.be/NP9BHTjih7g)
-[![](common/images/grub2_tmp.png)](https://youtu.be/0dv87RFGcKI)
-[![](common/images/uefi_tmp.png)](https://youtu.be/OVeso8h5HZA)
-[![](common/images/systemd_tmp.png)](https://youtu.be/9uDvnZKhU8A)
-[![](common/images/sysdtrgs_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/why_tmp.png)](https://youtu.be/l6fapYCHaQ0)
+[![](common/images/intro_install_tmp.png)](https://youtu.be/ETpaOwAcB7M)
+[![](common/images/shell_tmp.png)](https://youtu.be/NP9BHTjih7g)
+[![](common/images/files_tmp.png)](https://youtu.be/0dv87RFGcKI)
+[![](common/images/intro_vim_tmp.png)](https://youtu.be/OVeso8h5HZA)
+[![](common/images/intro_ug_tmp.png)](https://youtu.be/9uDvnZKhU8A)
+[![](common/images/perm_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/software_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/intro_net_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/remote_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/adv_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/arch_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/processes_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/intro_oci_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/work_env_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/tools_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/script_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+
 
 
 ![](common/images/OL-1200x200-banner.png)
