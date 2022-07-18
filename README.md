@@ -75,7 +75,11 @@ These videos focus on the installation and boot process. You can learn step-by-s
 ### Installation Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)[![](common/images/localize.png)](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)[![](common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)[![](common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)[![](common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
+[![](common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
+[![](common/images/localize.png)](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)
+[![](common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
+[![](common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
+[![](common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
 
 ## Administration
 Learn how to administer Oracle Linux. These tasks are applicable for on-premises systems or Oracle Cloud Infrastructure instances.
@@ -83,7 +87,19 @@ Learn how to administer Oracle Linux. These tasks are applicable for on-premises
 ### Administration Videos
 These short videos go through some common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, configure networking, and explore the proc and sysfs file systems to view and configure system hardware and system processes.
 
-[![](common/images/datetime_tmp.png)](https://youtu.be/q8VlYiF5sx8)[![](common/images/procfs_tmp.png)](https://youtu.be/1F51ZHAVfAk)[![](common/images/sysfs_tmp.png)](https://youtu.be/j9x2cuOE5_Y)[![](common/images/cron_tmp.png)](https://youtu.be/BpPGoRYTv9I)[![](common/images/anacron_tmp.png)](https://youtu.be/EIV3lpTeqXo)[![](common/images/kernelmod_tmp.png)](https://youtu.be/AeW42ZyzHrQ)[![](common/images/usergrp_tmp.png)](https://youtu.be/fag6aHNUkdQ)[![](common/images/passage_tmp.png)](https://youtu.be/WrcnDpj3axQ)[![](common/images/ftp_tmp.png)](https://youtu.be/xpBBUPLEkZg)[![](common/images/vim_tmp.png)](https://youtu.be/5xKldV3knzU)[![](common/images/leapp_tmp.png)](https://youtu.be/pk6tgzGpAU4)[![](common/images/cgroups_tmp.png)](https://youtu.be/AiYK0VBW7e4)[![](common/images/selinux_tmp.png)](https://youtu.be/meKjLOxEu_o)
+[![](common/images/datetime_tmp.png)](https://youtu.be/q8VlYiF5sx8)
+[![](common/images/procfs_tmp.png)](https://youtu.be/1F51ZHAVfAk)
+[![](common/images/sysfs_tmp.png)](https://youtu.be/j9x2cuOE5_Y)
+[![](common/images/cron_tmp.png)](https://youtu.be/BpPGoRYTv9I)
+[![](common/images/anacron_tmp.png)](https://youtu.be/EIV3lpTeqXo)
+[![](common/images/kernelmod_tmp.png)](https://youtu.be/AeW42ZyzHrQ)
+[![](common/images/usergrp_tmp.png)](https://youtu.be/fag6aHNUkdQ)
+[![](common/images/passage_tmp.png)](https://youtu.be/WrcnDpj3axQ)
+[![](common/images/ftp_tmp.png)](https://youtu.be/xpBBUPLEkZg)
+[![](common/images/vim_tmp.png)](https://youtu.be/5xKldV3knzU)
+[![](common/images/leapp_tmp.png)](https://youtu.be/pk6tgzGpAU4)
+[![](common/images/cgroups_tmp.png)](https://youtu.be/AiYK0VBW7e4)
+[![](common/images/selinux_tmp.png)](https://youtu.be/meKjLOxEu_o)
 
 ### Administration Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
