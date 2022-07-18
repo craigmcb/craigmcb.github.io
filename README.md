@@ -17,7 +17,7 @@ One of the first skills to learn is how to install Oracle Linux.
 ### Videos
 These videos focus on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux 8 installation for on-premises deployment and how to create an Oracle Linux 8 instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
 
-[![](common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)[![](common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)[![](common/images/bios_tmp.png)](https://youtu.be/NP9BHTjih7g)[![](common/images/grub2_tmp.png)](https://youtu.be/0dv87RFGcKI)[![](common/images/uefi_tmp.png)(https://youtu.be/OVeso8h5HZA)[![](common/images/systemd_tmp.png)](https://youtu.be/9uDvnZKhU8A)[![](common/images/sysdtrgs_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
+[![](common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)[![](common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)[![](common/images/bios_tmp.png)](https://youtu.be/NP9BHTjih7g)[![](common/images/grub2_tmp.png)](https://youtu.be/0dv87RFGcKI)[![](common/images/uefi_tmp.png)](https://youtu.be/OVeso8h5HZA)[![](common/images/systemd_tmp.png)](https://youtu.be/9uDvnZKhU8A)[![](common/images/sysdtrgs_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
 
 ### Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
