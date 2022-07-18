@@ -7,7 +7,7 @@ This Learning Library provides you with immediate learning opportunities includi
 ![](common/images/IntroOL.png)
 - [Oracle Linux](#ol): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
-- Linux on Oracle Cloud Infrastructure: See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
+- [Linux on Oracle Cloud Infrastructure](#loci): See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
 ![](common/images/OLCI-1200x200-banner.png)
 - Oracle Cloud Native Environment: Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
 ![](common/images/OCNE-banner.jpg)
@@ -126,6 +126,25 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](common/images/leapp_lab.png)](https://luna.oracle.com/lab/908d0e5b-4444-400a-87a7-2a9ec8c27550)
 [![](common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
 [![](common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
+
+#### [Return to top](#top)
+
+# Welcome to Linux on Oracle Cloud Infrastructure Training <a name="loci"></a>
+![](common/images/OLCI-1200x200-banner.png)
+---
+This site provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.
+
+As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.
+
+Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.
+
+### Linux on Oracle Cloud Infrastructure Videos
+
+
+### Linux on Oracle Cloud Infrastructure Hands On Labs
+
+
+#### [Return to top](#top)
 
 
 
