@@ -20,9 +20,8 @@ These videos focus on the installation and boot process. You can learn step-by-s
 [![](common/images/installol8.jpg)](https://youtu.be/l6fapYCHaQ0)
 Installing Oracle Linux 8
 
-[Install Oracle Linux on Oracle Cloud Infrastructure](https://youtu.be/ETpaOwAcB7M)
-
-![](common/images/installoci.jpg)
+[![](common/images/installoci.jpg)](https://youtu.be/ETpaOwAcB7M)
+[Install Oracle Linux on Oracle Cloud Infrastructure]
 
 [BIOS Firmware Bootloader Process on Oracle Linux](https://youtu.be/NP9BHTjih7g)
 
