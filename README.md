@@ -1,5 +1,5 @@
 
-![](common/images/OL-banner_1200.png)
+![](common/images/OLL-banner_1200.png)
 ---
 # Welcome to Oracle Linux Learning Library
 This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
