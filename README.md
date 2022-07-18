@@ -1,7 +1,7 @@
 
+# Welcome to Oracle Linux Learning Library <a name="top"></a>
 ![](common/images/OLL-banner_1200.png)
 ---
-# Welcome to Oracle Linux Learning Library
 This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
 - [Introduction to Oracle Linux](#intro): Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
 ![](common/images/IntroOL.png)
@@ -55,6 +55,8 @@ On these pages, you will find videos, documents and other useful resources on to
 This tutorial provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
 
 [![](common/images/Intro_tut.png)](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux/index.html)
+
+#### [Return to top](#top)
 
 # Welcome to Oracle Linux Training <a name="ol"></a>
 ![](common/images/OL-1200x200-banner.png)
