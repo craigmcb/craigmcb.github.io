@@ -1,3 +1,18 @@
+![](common/images/OL-banner_1200.png)
+---
+# Welcome to Oracle Linux Learning Library
+This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
+- Introduction to Oracle Linux: Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
+- Oracle Linux: Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
+- Linux on Oracle Cloud Infrastructure: See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
+- Oracle Cloud Native Environment: Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
+- Oracle Linux Automation Manager: Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
+- Oracle Linux How-To Video Series: Discover how to grow your diagnostic and troubleshooting skillset using Oracle Linux and interact with Oracle support for issue resolution.
+- Oracle Linux Virtualization Manager: Use resources available to adopt this open-source distributed server virtualization solution. Gain proficiency in deploying, configuring, monitoring, and managing an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance.
+- OS Management on Oracle Cloud Infrastructure: Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
+- Oracle Private Cloud Appliance: Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
+
+
 
 ![](common/images/OL-1200x200-banner.png)
 ---
