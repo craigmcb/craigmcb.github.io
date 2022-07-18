@@ -4,7 +4,7 @@
 # Welcome to Oracle Linux Learning Library
 This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
 - Introduction to Oracle Linux: Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
-- [Oracle Linux](#Welcome to Oracle Linux Training): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
+- [Oracle Linux](#abcd): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 - Linux on Oracle Cloud Infrastructure: See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
 - Oracle Cloud Native Environment: Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
 - Oracle Linux Automation Manager: Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
@@ -17,7 +17,7 @@ This Learning Library provides you with immediate learning opportunities includi
 
 ![](common/images/OL-1200x200-banner.png)
 ---
-# <a name="Welcome to Oracle Linux Training"></a>
+# Welcome to Oracle Linux Training <a name="abcd"></a>
 This site is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
 
 On these pages, you will find videos, documents and other useful resources on topics such as:
