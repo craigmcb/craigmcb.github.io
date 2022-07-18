@@ -41,7 +41,8 @@ systemd Target Units on Oracle Linux
 ### Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
+[![](common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)[![](common/images/localize.png)](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)[![](common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)[![](common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)[![](common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
+
 Manage the Boot Kernel for Oracle Linux
 
 [![](common/images/localize.png)](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)
