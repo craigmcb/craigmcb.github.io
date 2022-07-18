@@ -4,8 +4,8 @@
 # Welcome to Oracle Linux Learning Library
 This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
 - Introduction to Oracle Linux: Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
-[![](common/images/IntroOL.png)](#abcd)
-- Oracle Linux: Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
+![](common/images/IntroOL.png)
+- [Oracle Linux](#abcd): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
 - Linux on Oracle Cloud Infrastructure: See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
 - Oracle Cloud Native Environment: Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
