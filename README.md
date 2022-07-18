@@ -19,44 +19,10 @@ These videos focus on the installation and boot process. You can learn step-by-s
 
 [![](common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)[![](common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)[![](common/images/bios_tmp.png)](https://youtu.be/NP9BHTjih7g)[![](common/images/grub2_tmp.png)](https://youtu.be/0dv87RFGcKI)[![](common/images/ueif_tmp.png)](https://youtu.be/OVeso8h5HZA)[![](common/images/systemd_tmp.png)](https://youtu.be/9uDvnZKhU8A)[![](common/images/sysdtrgs_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
 
-Installing Oracle Linux 8
-
-[![](common/images/installoci.jpg)](https://youtu.be/ETpaOwAcB7M)
-Install Oracle Linux 8 on Oracle Cloud Infrastructure
-
-[![](common/images/bios.jpg)](https://youtu.be/NP9BHTjih7g)
-BIOS Firmware Bootloader Process on Oracle Linux
-
-[![](common/images/grub2.jpg)](https://youtu.be/0dv87RFGcKI)
-GRUB 2 on Oracle Linux
-
-[![](common/images/uefi.jpg)](https://youtu.be/OVeso8h5HZA)
-Unified Extensible Firmware Interface on Oracle Linux
-
-[![](common/images/systemd.jpg)](https://youtu.be/9uDvnZKhU8A)
-systemd System and Service Manager on Oracle Linux
-
-[![](common/images/systemdtargets.jpg)](https://youtu.be/Tkxs-wfZrnw)
-systemd Target Units on Oracle Linux
-
 ### Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 [![](common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)[![](common/images/localize.png)](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)[![](common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)[![](common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)[![](common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
-
-Manage the Boot Kernel for Oracle Linux
-
-[![](common/images/localize.png)](https://luna.oracle.com/lab/d657ae3c-ac29-4b0a-943e-e533f2e8093b)
-Learn How to Localize Your Installation on Oracle Linux
-
-[![](common/images/sysctl.png)](https://luna.oracle.com/lab/aa8f2377-7967-4e45-bf32-bdc8054d5c76)
-Configure System Settings on Oracle Linux
-
-[![](common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
-Use systemd on Oracle Linux
-
-[![](common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
-Switch from CentOS 8 to Oracle Linux 8
 
 ## Administration
 Learn how to administer Oracle Linux. These tasks are applicable for on-premises systems or Oracle Cloud Infrastructure instances.
