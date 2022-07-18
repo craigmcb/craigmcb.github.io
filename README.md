@@ -21,27 +21,22 @@ These videos focus on the installation and boot process. You can learn step-by-s
 Installing Oracle Linux 8
 
 [![](common/images/installoci.jpg)](https://youtu.be/ETpaOwAcB7M)
-[Install Oracle Linux on Oracle Cloud Infrastructure]
+Install Oracle Linux on Oracle Cloud Infrastructure
 
-[BIOS Firmware Bootloader Process on Oracle Linux](https://youtu.be/NP9BHTjih7g)
+[![](common/images/bios.jpg)](https://youtu.be/NP9BHTjih7g)
+BIOS Firmware Bootloader Process on Oracle Linux
 
-![](common/images/bios.jpg)
+[![](common/images/grub2.jpg)](https://youtu.be/0dv87RFGcKI)
+GRUB 2 on Oracle Linux
 
-[GRUB 2 on Oracle Linux](https://youtu.be/0dv87RFGcKI)
+[![](common/images/uefi.jpg)](https://youtu.be/OVeso8h5HZA)
+Unified Extensible Firmware Interface on Oracle Linux
 
-![](common/images/grub2.jpg)
+[![](common/images/systemd.jpg)](https://youtu.be/9uDvnZKhU8A)
+systemd System and Service Manager on Oracle Linux
 
-[Unified Extensible Firmware Interface on Oracle Linux](https://youtu.be/OVeso8h5HZA)
-
-![](common/images/uefi.jpg)
-
-[systemd System and Service Manager on Oracle Linux](https://youtu.be/9uDvnZKhU8A)
-
-![](common/images/systemd.jpg)
-
-[systemd Target Units on Oracle Linux](https://youtu.be/Tkxs-wfZrnw)
-
-![](common/images/systemdtargets.jpg)
+[![](common/images/systemdtargets.jpg)](https://youtu.be/Tkxs-wfZrnw)
+systemd Target Units on Oracle Linux
 
 ### Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
