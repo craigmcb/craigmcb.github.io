@@ -15,9 +15,9 @@ This Learning Library provides you with immediate learning opportunities includi
 - OS Management on Oracle Cloud Infrastructure: Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
 - Oracle Private Cloud Appliance: Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
 
+# Welcome to Introduction to Oracle Linux Training <a name="intro"></a>
 ![](common/images/IntroOL.png)
 ---
-# Welcome to Introduction to Oracle Linux Training <a name="intro"></a>
 New to Linux, or have a little experience working with the Linux operating system?
 This site will help you grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.
 On these pages, you will find videos, documents and other useful resources on topics such as:
@@ -47,12 +47,11 @@ On these pages, you will find videos, documents and other useful resources on to
 ### Introduction to Oracle Linux Tutorial
 This tutorial provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
 
-[![](common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
+[![](common/images/Intro_tut.png)](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux/index.html)
 
-
+# Welcome to Oracle Linux Training <a name="ol"></a>
 ![](common/images/OL-1200x200-banner.png)
 ---
-# Welcome to Oracle Linux Training <a name="ol"></a>
 This site is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
 
 On these pages, you will find videos, documents and other useful resources on topics such as:
