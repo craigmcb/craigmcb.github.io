@@ -104,7 +104,16 @@ These short videos go through some common administration tasks that you can perf
 ### Administration Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](common/images/user_grp_lab.png)](https://luna.oracle.com/lab/fb0e97c0-4522-422f-8be3-dd6f70a7b96e)[![](common/images/chrony_lab.png)](https://luna.oracle.com/lab/4946609e-41e4-4d26-8501-da948bb299ba)[![](common/images/crontab_lab.png)](https://luna.oracle.com/lab/d857ff70-1799-472e-b413-32ea7e356470)[![](common/images/tmux_lab.png)](https://luna.oracle.com/lab/4dda7413-1a31-47bf-96c1-8fa6c306dc6b)[![](common/images/postfix_lab.png)](https://luna.oracle.com/lab/4255c51c-4f52-45f3-a3e8-125b8cf1b40b)[![](common/images/starttls_lab.png)](https://luna.oracle.com/lab/6c0d44b2-1247-4780-a1ae-09f283812ef8)[![](common/images/nginx_lab.png)](https://luna.oracle.com/lab/54fa9d88-4243-4b4f-bae2-d52ec8cfb688)[![](common/images/leapp_lab.png)](https://luna.oracle.com/lab/908d0e5b-4444-400a-87a7-2a9ec8c27550)[![](common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)[![](common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
+[![](common/images/user_grp_lab.png)](https://luna.oracle.com/lab/fb0e97c0-4522-422f-8be3-dd6f70a7b96e)
+[![](common/images/chrony_lab.png)](https://luna.oracle.com/lab/4946609e-41e4-4d26-8501-da948bb299ba)
+[![](common/images/crontab_lab.png)](https://luna.oracle.com/lab/d857ff70-1799-472e-b413-32ea7e356470)
+[![](common/images/tmux_lab.png)](https://luna.oracle.com/lab/4dda7413-1a31-47bf-96c1-8fa6c306dc6b)
+[![](common/images/postfix_lab.png)](https://luna.oracle.com/lab/4255c51c-4f52-45f3-a3e8-125b8cf1b40b)
+[![](common/images/starttls_lab.png)](https://luna.oracle.com/lab/6c0d44b2-1247-4780-a1ae-09f283812ef8)
+[![](common/images/nginx_lab.png)](https://luna.oracle.com/lab/54fa9d88-4243-4b4f-bae2-d52ec8cfb688)
+[![](common/images/leapp_lab.png)](https://luna.oracle.com/lab/908d0e5b-4444-400a-87a7-2a9ec8c27550)
+[![](common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
+[![](common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
 
 
 
