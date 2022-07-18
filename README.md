@@ -44,6 +44,10 @@ On these pages, you will find videos, documents and other useful resources on to
 [![](common/images/tools_tmp.png)](https://youtu.be/ZXO4hqoO52o)
 [![](common/images/script_tmp.png)](https://youtu.be/d6ktKrOOkZs)
 
+### Introduction to Oracle Linux Tutorial
+This tutorial provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
+
+[![](common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
 
 
 ![](common/images/OL-1200x200-banner.png)
