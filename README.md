@@ -3,7 +3,7 @@
 ---
 # Welcome to Oracle Linux Learning Library
 This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
-- Introduction to Oracle Linux: Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
+- [Introduction to Oracle Linux](#intro): Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
 ![](common/images/IntroOL.png)
 - [Oracle Linux](#ol): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
@@ -15,6 +15,24 @@ This Learning Library provides you with immediate learning opportunities includi
 - OS Management on Oracle Cloud Infrastructure: Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
 - Oracle Private Cloud Appliance: Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
 
+![](common/images/IntroOL.png)
+---
+# Welcome to Introduction to Oracle Linux Training <a name="intro"></a>
+New to Linux, or have a little experience working with the Linux operating system?
+This site will help you grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.
+On these pages, you will find videos, documents and other useful resources on topics such as:
+
+- Technologies and components included in Oracle Linux 
+- Using the most common tools and features of Linux
+
+### Introduction to Oracle Linux Videos
+[![](common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)
+[![](common/images/installoci_tmp.png)](https://youtu.be/ETpaOwAcB7M)
+[![](common/images/bios_tmp.png)](https://youtu.be/NP9BHTjih7g)
+[![](common/images/grub2_tmp.png)](https://youtu.be/0dv87RFGcKI)
+[![](common/images/uefi_tmp.png)](https://youtu.be/OVeso8h5HZA)
+[![](common/images/systemd_tmp.png)](https://youtu.be/9uDvnZKhU8A)
+[![](common/images/sysdtrgs_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
 
 
 ![](common/images/OL-1200x200-banner.png)
