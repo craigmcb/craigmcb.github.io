@@ -74,18 +74,15 @@ Learn how to monitor system performance and review system logs on Oracle Linux.
 ### Monitoring and Logging Videos
 These videos go through typical monitoring and logging tasks performed on a Linux system.
 
-[![](../common/images/datetime_tmp.png)](https://youtu.be/q8VlYiF5sx8)
-[![](../common/images/procfs_tmp.png)](https://youtu.be/1F51ZHAVfAk)
-[![](../common/images/sysfs_tmp.png)](https://youtu.be/j9x2cuOE5_Y)
-[![](../common/images/cron_tmp.png)](https://youtu.be/BpPGoRYTv9I)
-[![](../common/images/anacron_tmp.png)](https://youtu.be/EIV3lpTeqXo)
-[![](../common/images/kernelmod_tmp.png)](https://youtu.be/AeW42ZyzHrQ)
-[![](../common/images/usergrp_tmp.png)](https://youtu.be/fag6aHNUkdQ)
-[![](../common/images/passage_tmp.png)](https://youtu.be/WrcnDpj3axQ)
-[![](../common/images/ftp_tmp.png)](https://youtu.be/xpBBUPLEkZg)
-[![](../common/images/vim_tmp.png)](https://youtu.be/5xKldV3knzU)
-[![](../common/images/leapp_tmp.png)](https://youtu.be/pk6tgzGpAU4)
-[![](../common/images/cgroups_tmp.png)](https://youtu.be/AiYK0VBW7e4)
-[![](../common/images/selinux_tmp.png)](https://youtu.be/meKjLOxEu_o)
+[![](../common/images/sos_tmp.png)](https://youtu.be/FD-wgH4xhJI)
+[![](../common/images/iostat_tmp.png)](https://youtu.be/BCb1Il1hpgY)
+[![](../common/images/mpstat_tmp.png)](https://youtu.be/ioAP964a_Q0)
+[![](../common/images/vmstat_tmp.png)](https://youtu.be/WGOWGJGFlvU)
+[![](../common/images/top_tmp.png)](https://youtu.be/t3JZ8Tcw7fo)
+[![](../common/images/netstat_tmp.png)](https://youtu.be/ucWjQafk1fk)
+[![](../common/images/rsyslog_tmp.png)](https://youtu.be/Xxk2bbiwr6M)
+[![](../common/images/logwatch_tmp.png)](https://youtu.be/jfdcGZJIuLk)
+[![](../common/images/journald_tmp.png)](https://youtu.be/YAMF3ewtfa4)
+[![](../common/images/audit_tmp.png)](https://youtu.be/AKwV0DHt6oA)
 
 #### [Return to main page](../README.md)
