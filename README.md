@@ -5,7 +5,7 @@
 This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
 - [Introduction to Oracle Linux](./intro/intro.md): Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
 ![](common/images/IntroOL.png)
-- [Oracle Linux](#ol): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
+- [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
 - [Linux on Oracle Cloud Infrastructure](#loci): See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
 ![](common/images/OLCI-1200x200-banner.png)
@@ -22,41 +22,8 @@ This Learning Library provides you with immediate learning opportunities includi
 - [Oracle Private Cloud Appliance](#opca): Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
 ![](common/images/PCA_header4.png)
 
-# Welcome to Introduction to Oracle Linux Training <a name="intro"></a>
-![](common/images/IntroOL.png)
----
-New to Linux, or have a little experience working with the Linux operating system?
-This site will help you grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.
-On these pages, you will find videos, documents and other useful resources on topics such as:
 
-- Technologies and components included in Oracle Linux 
-- Using the most common tools and features of Linux
 
-### Introduction to Oracle Linux Videos
-[![](common/images/why_tmp.png)](https://youtu.be/GzON3q8S00Y)
-[![](common/images/intro_install_tmp.png)](https://youtu.be/dvvP4wpsAQI)
-[![](common/images/shell_tmp.png)](https://youtu.be/QQSI_901fUU)
-[![](common/images/files_tmp.png)](https://youtu.be/Eo6zhlFHDXE)
-[![](common/images/intro_vim_tmp.png)](https://youtu.be/5xKldV3knzU)
-[![](common/images/intro_ug_tmp.png)](https://youtu.be/rjY_Z9diSwE)
-[![](common/images/perm_tmp.png)](https://youtu.be/Ce5gXQlw_o4)
-[![](common/images/software_tmp.png)](https://youtu.be/QiiVUyUxIc8)
-[![](common/images/intro_net_tmp.png)](https://youtu.be/V6HT5lXo4g0)
-[![](common/images/remote_tmp.png)](https://youtu.be/ednoES-3JfU)
-[![](common/images/adv_tmp.png)](https://youtu.be/xuLdJ3cQrXo)
-[![](common/images/arch_tmp.png)](https://youtu.be/a0zXGhzPRp8)
-[![](common/images/processes_tmp.png)](https://youtu.be/wMaWGV2yqtY)
-[![](common/images/intro_oci_tmp.png)](https://youtu.be/APTzx_7azmA)
-[![](common/images/work_env_tmp.png)](https://youtu.be/kdpfqiAp8BA)
-[![](common/images/tools_tmp.png)](https://youtu.be/ZXO4hqoO52o)
-[![](common/images/script_tmp.png)](https://youtu.be/d6ktKrOOkZs)
-
-### Introduction to Oracle Linux Tutorial
-This tutorial provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
-
-[![](common/images/Intro_tut.png)](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux/index.html)
-
-#### [Return to top](#top)
 
 # Welcome to Oracle Linux Training <a name="ol"></a>
 ![](common/images/OL-1200x200-banner.png)
