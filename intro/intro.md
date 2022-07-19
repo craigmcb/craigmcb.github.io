@@ -33,4 +33,4 @@ This tutorial provides step-by-step procedures to complete specific tasks on you
 
 [![](../common/images/Intro_tut.png)](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux/index.html)
 
-#### [Return to main menu](../README.md)
+#### [Return to main page](../README.md)
