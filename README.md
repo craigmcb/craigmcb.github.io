@@ -3,7 +3,7 @@
 ![](common/images/OLL-banner_1200.png)
 ---
 This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
-- [Introduction to Oracle Linux](#intro): Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
+- [Introduction to Oracle Linux](./intro/intro.md): Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
 ![](common/images/IntroOL.png)
 - [Oracle Linux](#ol): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
