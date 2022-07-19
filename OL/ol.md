@@ -126,7 +126,7 @@ Oracle Linux 8 introduced DNF, which replaces YUM, and in this video series, we 
 ### Package Management Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](../common/images/nwm_lab.png)](https://luna.oracle.com/lab/6cbaab1f-835c-445e-89eb-b42ba3e679bb/steps)
-[![](../common/images/bond_lab.png)](https://luna.oracle.com/lab/fc37cd13-6a90-49df-adc1-6c3b40239265)
+[![](../common/images/dnf_lab.png)](https://luna.oracle.com/lab/609f19ec-b142-4fa9-81d1-ab6d1e97478c)
+[![](../common/images/yumMirror_lab.png)](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
 
 #### [Return to main page](../README.md)
