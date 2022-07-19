@@ -1,5 +1,5 @@
 
-# Welcome to Oracle Linux Training <a name="ol"></a>
+# Welcome to Oracle Linux Training
 ![](../common/images/OL-1200x200-banner.png)
 ---
 This site is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
@@ -68,4 +68,4 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
 [![](../common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
 
-#### [Return to top](#top)
+#### [Return to Main Menu](../README.md)
