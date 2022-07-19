@@ -93,7 +93,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/audit_lab.png)](https://luna.oracle.com/lab/3a72b337-d8c0-41b9-9193-e1bf50ad2ac9)
 
 ## Networking
-Learn how to connect Oracle Linux to the network.
+Learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
 
 ### Networking Videos
 These videos go through the configuration files, firewalls, and command line utilities to get a Linux system online.
@@ -114,7 +114,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/vlan_lab.png)](https://luna.oracle.com/lab/e8070728-d90b-41c9-8984-e4b1d98cee88)
 
 ## Package Management
-Package Management is an essential skill for installing software on Oracle Linux.
+Software package management is an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches.
 
 ### Package Management Videos
 Oracle Linux 8 introduced DNF, which replaces YUM, and in this video series, we cover how to use DNF, install the Oracle UEK kernel and how to add repositories.
