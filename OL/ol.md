@@ -68,4 +68,4 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
 [![](../common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
 
-#### [Return to Main Menu](../README.md)
+#### [Return to main page](../README.md)
