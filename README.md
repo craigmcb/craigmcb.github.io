@@ -11,7 +11,7 @@ This Learning Library provides you with immediate learning opportunities includi
 ![](common/images/OLCI-1200x200-banner.png)
 - [Oracle Cloud Native Environment](#ocne): Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
 ![](common/images/OCNE-banner.jpg)
-- Oracle Linux Automation Manager: Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
+- [Oracle Linux Automation Manager](#olam): Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
 ![](common/images/OLAM-banner.jpg)
 - Oracle Linux How-To Video Series: Discover how to grow your diagnostic and troubleshooting skillset using Oracle Linux and interact with Oracle support for issue resolution.
 ![](common/images/how-to-banner.png)
@@ -157,12 +157,35 @@ On these pages you will find material such as videos, documents and useful resou
 - Microservices Traffic Management
 - Management Operations
 - Monitoring
+
 Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices.
 
 ### Oracle Cloud Native Environment Videos
 
 
 ### Oracle Cloud Native Environment Hands On Labs
+
+
+#### [Return to top](#top)
+
+# Welcome to Oracle Linux Automation Manager Training <a name="olam"></a>
+![](common/images/OLAM-banner.jpg)
+---
+This site provides free training to help introduce you to Oracle Linux Automation Manager and improve your skills with its automation tools.
+
+The Oracle Linux Automation Engine is an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
+
+Oracle Linux Automation Manager provides features that allow your organization to effectively manage infrastructure configuration through a browser user interface. Using Oracle Linux Automation Manager you can:
+- Create and configure permissions for organizations, users, and teams that use Oracle Linux Automation Manager 
+- Create projects that import Oracle Linux Automation Engine playbooks from various sources, such as a local machine or from a remote git repository
+- Create an inventory which specifies the hosts where playbook tasks run
+- Create job templates that specify the projects and playbooks to run
+- Manually launch or schedule the launch of job templates
+
+### Oracle Linux Automation Manager Videos
+
+
+### Oracle Linux Automation Manager Hands On Labs
 
 
 #### [Return to top](#top)
