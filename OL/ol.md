@@ -98,16 +98,13 @@ Learn how to connect Oracle Linux to the network.
 ### Networking Videos
 These videos go through the configuration files, firewalls, and command line utilities to get a Linux system online.
 
-[![](../common/images/sos_tmp.png)](https://youtu.be/FD-wgH4xhJI)
-[![](../common/images/iostat_tmp.png)](https://youtu.be/BCb1Il1hpgY)
-[![](../common/images/mpstat_tmp.png)](https://youtu.be/ioAP964a_Q0)
-[![](../common/images/vmstat_tmp.png)](https://youtu.be/WGOWGJGFlvU)
-[![](../common/images/top_tmp.png)](https://youtu.be/t3JZ8Tcw7fo)
-[![](../common/images/netstat_tmp.png)](https://youtu.be/ucWjQafk1fk)
-[![](../common/images/rsyslog_tmp.png)](https://youtu.be/Xxk2bbiwr6M)
-[![](../common/images/logwatch_tmp.png)](https://youtu.be/jfdcGZJIuLk)
-[![](../common/images/journald_tmp.png)](https://youtu.be/YAMF3ewtfa4)
-[![](../common/images/audit_tmp.png)](https://youtu.be/AKwV0DHt6oA)
+[![](../common/images/netfiles_tmp.png)](https://youtu.be/xCH9WoU96RQ)
+[![](../common/images/mncli_tmp.png)](https://youtu.be/EkI3RKl4loE)
+[![](../common/images/bonding_tmp.png)](https://youtu.be/u9UnwWFpY94)
+[![](../common/images/vlans_tmp.png)](https://youtu.be/JcqXcGfjD0E)
+[![](../common/images/ip_tmp.png)](https://youtu.be/JcipLuWymNc)
+[![](../common/images/firewalld_tmp.png)](https://youtu.be/GPHxVRPUs9o)
+[![](../common/images/nftables_tmp.png)](https://youtu.be/tFdc_iVKXMs)
 
 ### Networking Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
