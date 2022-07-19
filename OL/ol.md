@@ -68,4 +68,24 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/cgroups_lab.png)](https://luna.oracle.com/lab/14d89b6d-627b-4f1f-b859-4761e3ed352c)
 [![](../common/images/selinux_lab.png)](https://luna.oracle.com/lab/89a09fdd-47c2-4755-b98e-35863bdf7bc0)
 
+## Monitoring and Logging
+Learn how to monitor system performance and review system logs on Oracle Linux.
+
+### Monitoring and Logging Videos
+These videos go through typical monitoring and logging tasks performed on a Linux system.
+
+[![](../common/images/datetime_tmp.png)](https://youtu.be/q8VlYiF5sx8)
+[![](../common/images/procfs_tmp.png)](https://youtu.be/1F51ZHAVfAk)
+[![](../common/images/sysfs_tmp.png)](https://youtu.be/j9x2cuOE5_Y)
+[![](../common/images/cron_tmp.png)](https://youtu.be/BpPGoRYTv9I)
+[![](../common/images/anacron_tmp.png)](https://youtu.be/EIV3lpTeqXo)
+[![](../common/images/kernelmod_tmp.png)](https://youtu.be/AeW42ZyzHrQ)
+[![](../common/images/usergrp_tmp.png)](https://youtu.be/fag6aHNUkdQ)
+[![](../common/images/passage_tmp.png)](https://youtu.be/WrcnDpj3axQ)
+[![](../common/images/ftp_tmp.png)](https://youtu.be/xpBBUPLEkZg)
+[![](../common/images/vim_tmp.png)](https://youtu.be/5xKldV3knzU)
+[![](../common/images/leapp_tmp.png)](https://youtu.be/pk6tgzGpAU4)
+[![](../common/images/cgroups_tmp.png)](https://youtu.be/AiYK0VBW7e4)
+[![](../common/images/selinux_tmp.png)](https://youtu.be/meKjLOxEu_o)
+
 #### [Return to main page](../README.md)
