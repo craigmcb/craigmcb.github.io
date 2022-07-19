@@ -85,4 +85,11 @@ These videos go through typical monitoring and logging tasks performed on a Linu
 [![](../common/images/journald_tmp.png)](https://youtu.be/YAMF3ewtfa4)
 [![](../common/images/audit_tmp.png)](https://youtu.be/AKwV0DHt6oA)
 
+### Monitoring and Logging Hands On Labs
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+[![](../common/images/user_grp_lab.png)](https://luna.oracle.com/lab/fb0e97c0-4522-422f-8be3-dd6f70a7b96e)
+[![](../common/images/chrony_lab.png)](https://luna.oracle.com/lab/4946609e-41e4-4d26-8501-da948bb299ba)
+[![](../common/images/crontab_lab.png)](https://luna.oracle.com/lab/d857ff70-1799-472e-b413-32ea7e356470)
+
 #### [Return to main page](../README.md)
