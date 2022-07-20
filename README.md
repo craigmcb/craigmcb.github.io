@@ -13,7 +13,7 @@ This Learning Library provides you with immediate learning opportunities includi
 ![](common/images/OCNE-banner.jpg)
 - [Oracle Linux Automation Manager](./OLAM/olam.md): Learn how to use Oracle Linux Automation Engine as an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
 ![](common/images/OLAM-banner.jpg)
-- [Oracle Linux How-To Video Series](#howt): Discover how to grow your diagnostic and troubleshooting skillset using Oracle Linux and interact with Oracle support for issue resolution.
+- [Oracle Linux How-To Video Series](./HOWTO/howto.md): Discover how to grow your diagnostic and troubleshooting skillset using Oracle Linux and interact with Oracle support for issue resolution.
 ![](common/images/how-to-banner.png)
 - [Oracle Linux Virtualization Manager](#olvm): Use resources available to adopt this open-source distributed server virtualization solution. Gain proficiency in deploying, configuring, monitoring, and managing an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance.
 ![](common/images/OLVM-1200x200-banner.png)
@@ -22,18 +22,6 @@ This Learning Library provides you with immediate learning opportunities includi
 - [Oracle Private Cloud Appliance](#opca): Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
 ![](common/images/PCA_header4.png)
 
-
-# Welcome to Oracle Linux How-To Video Series <a name="howt"></a>
-![](common/images/how-to-banner.png)
----
-This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
-
-These videos are intended as quick references or short procedural sequences.
-
-### Oracle Linux How-To Videos
-
-
-#### [Return to top](#top)
 
 # Welcome to Oracle Linux Virtualization Manager Training <a name="olvm"></a>
 ![](common/images/OLVM-1200x200-banner.png)
