@@ -1,5 +1,5 @@
 
-# Welcome to Oracle Linux Automation Manager Training <a name="olam"></a>
+# Welcome to Oracle Linux Automation Manager Training
 ![](../common/images/OLAM-banner.jpg)
 ---
 This site provides free training to help introduce you to Oracle Linux Automation Manager and improve your skills with its automation tools.
@@ -19,4 +19,4 @@ Oracle Linux Automation Manager provides features that allow your organization t
 ### Oracle Linux Automation Manager Hands On Labs
 
 
-#### [Return to top](#top)
+#### [Return to main page](../README.md)
