@@ -140,7 +140,23 @@ Learn to install, configure and use Oracle Ksplice to provide rebootless kernel 
 [![](../common/images/runUptrack_tmp.png)](https://youtu.be/-4morE8SQK4)
 [![](../common/images/uninstKsplice_tmp.png)](https://youtu.be/G0j1XYNkomY)
 
-### Oracle Ksplice Hands On Labs
+### Oracle Ksplice Hands On Lab
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+[![](../common/images/ksplice_lab.png)](https://luna.oracle.com/lab/7bf9e1e8-691e-42d4-823d-6a0fad49791c)
+
+## Remote Management
+When working with Oracle Linux, the environment you are accessing is not always physically accessible via a monitor, keyboard, and mouse. In those cases, you need to know how to administer your environment remotely.
+
+### Remote Management Videos
+Depending on if you want a command-line environment (CLI) or graphical (GUI), these videos will get you started.
+
+[![](../common/images/enableKsplice_tmp.png)](https://youtu.be/mpeew2k-z18)
+[![](../common/images/runKsplice_tmp.png)](https://youtu.be/pl4lJOY5iw4)
+[![](../common/images/runUptrack_tmp.png)](https://youtu.be/-4morE8SQK4)
+[![](../common/images/uninstKsplice_tmp.png)](https://youtu.be/G0j1XYNkomY)
+
+### Remote Management Hands On Lab
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 [![](../common/images/ksplice_lab.png)](https://luna.oracle.com/lab/7bf9e1e8-691e-42d4-823d-6a0fad49791c)
