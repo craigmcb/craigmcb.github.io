@@ -1,6 +1,6 @@
 
 # Welcome to Oracle Linux How-To Video Series
-![](common/images/how-to-banner.png)
+![](../common/images/how-to-banner.png)
 ---
 This page provides you information to help you grow your diagnostic and troubleshooting skillset using Oracle Linux. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
 
