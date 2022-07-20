@@ -184,7 +184,7 @@ These videos will get you started on using fdisk, formatting, filesystems, and d
 [![](../common/images/glusterfs_tmp.png)](https://youtu.be/N7BeDUOcKg4)
 [![](../common/images/lvm_tmp.png)](https://youtu.be/2ebupdOpOn8)
 
-### Storage Management Hands On Lab
+### Storage Management Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 [![](../common/images/filesystems_lab.png)](https://luna.oracle.com/lab/bbfe7177-f27a-42f5-97cf-95b7027efa26)
@@ -198,5 +198,30 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/raidlvm_lab.png)](https://luna.oracle.com/lab/2edede28-75f0-4046-8567-4cfd1596f931)
 [![](../common/images/swraid_lab.png)](https://luna.oracle.com/lab/2c5aab94-cacb-4978-b0c9-aca5c953f6e4)
 [![](../common/images/vg_lab.png)](https://luna.oracle.com/lab/ee495d1a-4e00-4d77-9719-2f27591d1ecd)
+
+## Virtualization
+Take advantage of Linux virtualization and run operating systems as guests within Oracle Linux. In these videos we cover lessons on installation, management, creation and other aspects related to using virtualization on Oracle Linux.
+
+### KVM Management Videos
+
+[![](../common/images/kvm_tmp.png)](https://youtu.be/ALtnopSysY4)
+[![](../common/images/cockpit_tmp.png)](https://youtu.be/-Z3AwP2HPa4)
+[![](../common/images/usingcockpit_tmp.png)](https://youtu.be/daHQeCY13s8)
+[![](../common/images/nat_tmp.png)](https://youtu.be/2MEqDxOeuDw)
+[![](../common/images/bridge_tmp.png)](https://youtu.be/OAfIb7gtang)
+[![](../common/images/usingbridge_tmp.png)](https://youtu.be/CXBTBxFoSKI)
+[![](../common/images/switch_tmp.png)](https://youtu.be/hMstMTqzP_Q)
+[![](../common/images/convert_tmp.png)](https://youtu.be/7gZLiTa3150)
+[![](../common/images/adddisk_tmp.png)](https://youtu.be/B3h_DWOMwrk)
+
+### VirtualBox Videos
+
+### Container Videos
+
+### Kubernetes Videos
+
+### Virtualization Hands On Lab
+
+[![](../common/images/filesystems_lab.png)](https://luna.oracle.com/lab/bbfe7177-f27a-42f5-97cf-95b7027efa26)
 
 #### [Return to main page](../README.md)
