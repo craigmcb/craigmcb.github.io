@@ -1,6 +1,6 @@
 
 # Welcome to Oracle Cloud Native Environment Training <a name="ocne"></a>
-![](common/images/OCNE-banner.jpg)
+![](../common/images/OCNE-banner.jpg)
 ---
 This site contains videos to facilitate your usage of the technologies, software and tools used by Oracle to develop microservices-based applications that can be deployed in environments that support open standards and specifications.
 
@@ -19,4 +19,4 @@ Information and videos presented here cover Microservices technologies which are
 ### Oracle Cloud Native Environment Hands On Labs
 
 
-#### [Return to top](#top)
+#### [Return to main page](../README.md)
