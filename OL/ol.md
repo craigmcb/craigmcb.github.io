@@ -149,12 +149,14 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 When working with Oracle Linux, the environment you are accessing is not always physically accessible via a monitor, keyboard, and mouse. In those cases, you need to know how to administer your environment remotely.
 
 ### Remote Management Videos
-Depending on if you want a command-line environment (CLI) or graphical (GUI), these videos will get you started.
+Watch these short videos on how to establish secure connections to remote Oracle Linux 8 systems. With secure connections, all traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.
 
-[![](../common/images/enableKsplice_tmp.png)](https://youtu.be/mpeew2k-z18)
-[![](../common/images/runKsplice_tmp.png)](https://youtu.be/pl4lJOY5iw4)
-[![](../common/images/runUptrack_tmp.png)](https://youtu.be/-4morE8SQK4)
-[![](../common/images/uninstKsplice_tmp.png)](https://youtu.be/G0j1XYNkomY)
+[![](../common/images/proxyjump_tmp.png)](https://youtu.be/QKZP9FbP3mo)
+[![](../common/images/sshclient_tmp.png)](https://youtu.be/om93ySvpBWE)
+[![](../common/images/sshtunnel_tmp.png)](https://youtu.be/NRL_wXqnQeo)
+[![](../common/images/sshansible_tmp.png)](https://youtu.be/ij8z9uqRg28)
+[![](../common/images/vncserver_tmp.png)](https://youtu.be/Z5vhER7K34E)
+[![](../common/images/gnome3_tmp.png)](https://youtu.be/9mToAwfCZik)
 
 ### Remote Management Hands On Lab
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
