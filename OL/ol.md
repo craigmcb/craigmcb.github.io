@@ -196,7 +196,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/btrfs_lab.png)](https://luna.oracle.com/lab/03f1fb2b-d4ef-4d1e-8a12-793cb3e3ffd8)
 [![](../common/images/hanfsserver_lab.png)](https://luna.oracle.com/lab/2bf5d9a2-7afc-4286-97ef-386427e3ebea)
 [![](../common/images/raidlvm_lab.png)](https://luna.oracle.com/lab/2edede28-75f0-4046-8567-4cfd1596f931)
-[![](../common/images/swraid_lab.png)](https://luna.oracle.com/lab/2edede28-75f0-4046-8567-4cfd1596f931)
+[![](../common/images/swraid_lab.png)](https://luna.oracle.com/lab/2c5aab94-cacb-4978-b0c9-aca5c953f6e4)
 [![](../common/images/vg_lab.png)](https://luna.oracle.com/lab/ee495d1a-4e00-4d77-9719-2f27591d1ecd)
 
 #### [Return to main page](../README.md)
