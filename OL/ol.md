@@ -130,19 +130,19 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../common/images/yumMirror_lab.png)](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
 
 ## Oracle Ksplice
-Learn to install, configure and use Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel andkey user-space security and bug fix updates while the system is running.
+Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
 
 ### Oracle Ksplice Videos
-Oracle Linux 8 introduced DNF, which replaces YUM, and in this video series, we cover how to use DNF, install the Oracle UEK kernel and how to add repositories.
+Learn to install, configure and use Oracle Ksplice to provide rebootless kernel and critical user-space updates.
 
-[![](../common/images/dnf_tmp.png)](https://youtu.be/YP_ovje5UuM)
-[![](../common/images/uek6_tmp.png)](https://youtu.be/OeFTjC0mqLM)
-[![](../common/images/epel_tmp.png)](https://youtu.be/R-hAYGEYWQ0)
+[![](../common/images/enableKsplice_tmp.png)](https://youtu.be/mpeew2k-z18)
+[![](../common/images/runKsplice_tmp.png)](https://youtu.be/pl4lJOY5iw4)
+[![](../common/images/runUptrack_tmp.png)](https://youtu.be/-4morE8SQK4)
+[![](../common/images/uninstKsplice_tmp.png)](https://youtu.be/G0j1XYNkomY)
 
 ### Oracle Ksplice Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
-[![](../common/images/dnf_lab.png)](https://luna.oracle.com/lab/609f19ec-b142-4fa9-81d1-ab6d1e97478c)
-[![](../common/images/yumMirror_lab.png)](https://luna.oracle.com/lab/b3779123-c17c-4f89-bb93-8c343d891825)
+[![](../common/images/ksplice_lab.png)](https://luna.oracle.com/lab/7bf9e1e8-691e-42d4-823d-6a0fad49791c)
 
 #### [Return to main page](../README.md)
