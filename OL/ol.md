@@ -163,4 +163,30 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 
 [![](../common/images/sshtunnels_lab.png)](https://luna.oracle.com/lab/d1dc0830-fe30-48d4-8e5c-d30ad525e36e)
 
+## Storage Management
+Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.
+
+### Storage Management Videos
+These videos will get you started on using fdisk, formatting, filesystems, and disk encryption.
+
+[![](../common/images/fdisk_tmp.png)](https://youtu.be/3edFvAXe4Hs)
+[![](../common/images/extfs_tmp.png)](https://youtu.be/fCuxJkrXf2w)
+[![](../common/images/mount_tmp.png)](https://youtu.be/2cHm9ohqZJo)
+[![](../common/images/fstab_tmp.png)](https://youtu.be/zO9kbExt3uI)
+[![](../common/images/swap_tmp.png)](https://youtu.be/rv6iXD8Iod0)
+[![](../common/images/nfsserver_tmp.png)](https://youtu.be/fnVoVzB8Px0)
+[![](../common/images/nfsexport_tmp.png)](https://youtu.be/YFeaOEgFrto)
+[![](../common/images/nfsshares_tmp.png)](https://youtu.be/Fzvb2LKJdok)
+[![](../common/images/xfs_tmp.png)](https://youtu.be/OUW1cbR-WuA)
+[![](../common/images/btrfs_tmp.png)](https://youtu.be/hu3xX3o3ciA)
+[![](../common/images/btrfssvol_tmp.png)](https://youtu.be/xH305gNQvJ8)
+[![](../common/images/snapper_tmp.png)](https://youtu.be/U3Ur9x_gZSg)
+[![](../common/images/glusterfs_tmp.png)](https://youtu.be/N7BeDUOcKg4)
+[![](../common/images/lvm_tmp.png)](https://youtu.be/2ebupdOpOn8)
+
+### Storage Management Hands On Lab
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+[![](../common/images/sshtunnels_lab.png)](https://luna.oracle.com/lab/d1dc0830-fe30-48d4-8e5c-d30ad525e36e)
+
 #### [Return to main page](../README.md)
