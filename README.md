@@ -17,30 +17,11 @@ This Learning Library provides you with immediate learning opportunities includi
 ![](common/images/how-to-banner.png)
 - [Oracle Linux Virtualization Manager](./OLVM/olvm.md): Use resources available to adopt this open-source distributed server virtualization solution. Gain proficiency in deploying, configuring, monitoring, and managing an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance.
 ![](common/images/OLVM-1200x200-banner.png)
-- [OS Management on Oracle Cloud Infrastructure](#osms): Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
+- [OS Management on Oracle Cloud Infrastructure](./OSMG/osmg.md): Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
 ![](common/images/OSM-OCI-1200x200-banner.png)
 - [Oracle Private Cloud Appliance](#opca): Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
 ![](common/images/PCA_header4.png)
 
-
-
-# Welcome to OS Management on Oracle Cloud Infrastructure Training <a name="osms"></a>
-![](common/images/OSM-OCI-1200x200-banner.png)
----
-The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances.
-
-On these pages, you will find videos, documents, and other useful resources on topics such as:
-- Getting Started with OS Management
-- Installing and Patching a Windows instance
-- Checking the status of the Oracle Cloud Agent
-
-### OS Management on Oracle Cloud Infrastructure Videos
-
-
-### OS Management on Oracle Cloud Infrastructure Hands On Labs
-
-
-#### [Return to top](#top)
 
 # Welcome to Oracle Private Cloud Appliance Training <a name="opca"></a>
 ![](common/images/PCA_header4.png)
