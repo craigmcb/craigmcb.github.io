@@ -1,5 +1,5 @@
 
-# Welcome to Oracle Private Cloud Appliance Training <a name="opca"></a>
+# Welcome to Oracle Private Cloud Appliance Training
 ![](../common/images/PCA_header4.png)
 ---
 This site contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.
@@ -13,4 +13,4 @@ Information and videos presented here cover technologies and components to help 
 ### Oracle Private Cloud Appliance Videos
 
 
-#### [Return to top](#top)
+#### [Return to main page](../README.md)
