@@ -19,25 +19,9 @@ This Learning Library provides you with immediate learning opportunities includi
 ![](common/images/OLVM-1200x200-banner.png)
 - [OS Management on Oracle Cloud Infrastructure](./OSMG/osmg.md): Learn how to use the OS Management service to manage updates and patches for your operating system environments on your Oracle Cloud Infrastructure instances.
 ![](common/images/OSM-OCI-1200x200-banner.png)
-- [Oracle Private Cloud Appliance](#opca): Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
+- [Oracle Private Cloud Appliance](./OPCA/opca.md): Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
 ![](common/images/PCA_header4.png)
 
-
-# Welcome to Oracle Private Cloud Appliance Training <a name="opca"></a>
-![](common/images/PCA_header4.png)
----
-This site contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.
-
-On these pages you will find material such as videos, documents and useful resource links covering areas including the following:
-- Tasks performed from the Service Enclave.
-- Tasks performed from the Compute Enclave.
-
-Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Private Cloud Appliance.
-
-### Oracle Private Cloud Appliance Videos
-
-
-#### [Return to top](#top)
 
 
 ### Support or Contact
