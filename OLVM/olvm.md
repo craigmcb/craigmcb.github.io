@@ -1,5 +1,5 @@
 
-# Welcome to Oracle Linux Virtualization Manager Training <a name="olvm"></a>
+# Welcome to Oracle Linux Virtualization Manager Training
 ![](../common/images/OLVM-1200x200-banner.png)
 ---
 This site contains videos to facilitate your usage of the technologies and tools used by Oracle Linux Virtualization Manager. Oracle Linux Virtualization Manager is an open-source distributed server virtualization solution, easily deployed to configure, monitor, and manage an Oracle Linux Kernel-based Virtual Machine (KVM) environment with enterprise-grade performance and support from Oracle.
@@ -13,4 +13,4 @@ Information and videos presented here cover technologies and components to help 
 ### Oracle Linux Virtualization Manager Videos
 
 
-#### [Return to top](#top)
+#### [Return to main page](../README.md)
