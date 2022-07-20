@@ -7,7 +7,7 @@ This Learning Library provides you with immediate learning opportunities includi
 ![](common/images/IntroOL.png)
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
-- [Linux on Oracle Cloud Infrastructure](#loci): See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
+- [Linux on Oracle Cloud Infrastructure](./OLOCI/oloci.md): See how to use Linux to deliver powerful compute and networking performance with a comprehensive portfolio of infrastructure and platform cloud services.
 ![](common/images/OLCI-1200x200-banner.png)
 - [Oracle Cloud Native Environment](#ocne): Learn how you can deploy the software and tools to develop microservices-based applications in-line with open standards and specifications.
 ![](common/images/OCNE-banner.jpg)
@@ -22,23 +22,6 @@ This Learning Library provides you with immediate learning opportunities includi
 - [Oracle Private Cloud Appliance](#opca): Learn to perform various user and administrative tasks from the Compute Enclave and from the Service Enclave.
 ![](common/images/PCA_header4.png)
 
-
-# Welcome to Linux on Oracle Cloud Infrastructure Training <a name="loci"></a>
-![](common/images/OLCI-1200x200-banner.png)
----
-This site provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.
-
-As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.
-
-Get started today and see how your Linux administration helps achieve the benefits Linux brings to running your services and applications on Oracle Cloud Infrastructure.
-
-### Linux on Oracle Cloud Infrastructure Videos
-
-
-### Linux on Oracle Cloud Infrastructure Hands On Labs
-
-
-#### [Return to top](#top)
 
 # Welcome to Oracle Cloud Native Environment Training <a name="ocne"></a>
 ![](common/images/OCNE-banner.jpg)
