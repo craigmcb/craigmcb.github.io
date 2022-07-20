@@ -1,5 +1,5 @@
 
-# Welcome to OS Management on Oracle Cloud Infrastructure Training <a name="osms"></a>
+# Welcome to OS Management on Oracle Cloud Infrastructure Training
 ![](../common/images/OSM-OCI-1200x200-banner.png)
 ---
 The Oracle Cloud Infrastructure OS Management service allows you to manage updates and patches for the operating system environment on your Oracle Cloud Infrastructure instances.
@@ -15,4 +15,4 @@ On these pages, you will find videos, documents, and other useful resources on t
 ### OS Management on Oracle Cloud Infrastructure Hands On Labs
 
 
-#### [Return to top](#top)
+#### [Return to main page](../README.md)
