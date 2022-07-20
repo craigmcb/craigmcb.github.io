@@ -1,5 +1,5 @@
 
-# Welcome to Linux on Oracle Cloud Infrastructure Training <a name="loci"></a>
+# Welcome to Linux on Oracle Cloud Infrastructure Training
 ![](../common/images/OLCI-1200x200-banner.png)
 ---
 This site provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.
@@ -14,4 +14,4 @@ Get started today and see how your Linux administration helps achieve the benefi
 ### Linux on Oracle Cloud Infrastructure Hands On Labs
 
 
-#### [Return to main page](#top)
+#### [Return to main page](../README.md)
