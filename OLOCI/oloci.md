@@ -11,7 +11,15 @@ Get started today and see how your Linux administration helps achieve the benefi
 ### Deploying Cloud Components with the Web Console
 Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
 
-[![](../common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)
+[![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
+[![](../common/images/creatAutoLinxInst_tmp.png)](https://youtu.be/eKQ6h7Onr-8)
+[![](../common/images/creatWinInst_tmp.pn)](https://youtu.be/8SgkZTUKwFg)
+[![](../common/images/TermInst_tmp.png)](https://youtu.be/pRD_yUPuYjs)
+[![](../common/images/detatt_tmp.png)](https://youtu.be/NAWAsx3cKxE)
+[![](../common/images/usebv_tmp.png)](https://youtu.be/4mbAxZBy_es)
+[![](../common/images/cinit_tmp.png)](https://youtu.be/P1sH3zevfHk)
+[![](../common/images/terr_tmp.png)](https://youtu.be/SeBhCRr21pg)
+[![](../common/images/confterr_tmp.png)](https://youtu.be/Bb25PRJ3Ats)
 
 ### Linux on Oracle Cloud Infrastructure Hands On Labs
 
