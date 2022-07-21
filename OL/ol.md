@@ -253,6 +253,6 @@ Take advantage of Linux virtualization and run operating systems as guests withi
 
 ### Virtualization Tutorial
 
-[![](../common/images/)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
+[![](../common/images/multi_lab.png)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
 
 #### [Return to main page](../README.md)
