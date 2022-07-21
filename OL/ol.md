@@ -239,6 +239,10 @@ Take advantage of Linux virtualization and run operating systems as guests withi
 
 ### Kubernetes Videos
 
+[![](../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
+[![](../common/images/kubres_tmp.png)](https://youtu.be/e5m3TlvM4y4)
+[![](../common/images/minikub_tmp.png)](https://youtu.be/u1qY8ax0U44)
+
 ### Virtualization Hands On Lab
 
 [![](../common/images/filesystems_lab.png)](https://luna.oracle.com/lab/bbfe7177-f27a-42f5-97cf-95b7027efa26)
