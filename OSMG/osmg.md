@@ -9,10 +9,19 @@ On these pages, you will find videos, documents, and other useful resources on t
 - Installing and Patching a Windows instance
 - Checking the status of the Oracle Cloud Agent
 
-### OS Management on Oracle Cloud Infrastructure Videos
+### Installation
+One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
 
-### OS Management on Oracle Cloud Infrastructure Hands On Labs
 
+### Working with OS Management Videos
+These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
+
+[![](../common/images/getstartosmwin_tmp.png)](https://youtu.be/DpAE_RhmRWg)
+[![](../common/images/getstartosm_tmp.png)](https://youtu.be/7qmy5VusYKA)
+[![](../common/images/useosm_tmp.png)](https://youtu.be/txStsCT1onc)
+[![](../common/images/autolinosm_tmp.png)](https://youtu.be/Mt_zmEJ1UtM)
+[![](../common/images/migautolinosm_tmp.png)](https://youtu.be/vNY4jelIdgk)
+[![](../common/images/comprpt_tmp.png)](https://youtu.be/_pKnAcA7GUs)
 
 #### [Return to main page](../README.md)
