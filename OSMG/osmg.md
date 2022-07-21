@@ -14,7 +14,8 @@ One of the first requirements to use the OS Management Service is to have a runn
 
 [![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/creatWinInst_tmp.png)](https://youtu.be/8SgkZTUKwFg)
-
+[![](../common/images/instpatc_tmp.png)](https://youtu.be/4eDTl5fPNKA)
+[![](../common/images/accwin_tmp.png)](https://youtu.be/d1fgBuE1GMY)
 
 ### Working with OS Management Videos
 These videos will provide information to get started and work with the OS Management Service on Linux and Windows instances.
