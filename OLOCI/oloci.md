@@ -28,7 +28,18 @@ Learn to provision and launch compute instances with the cloud web console to su
 ### Administering Instances In Oracle Cloud Infrastructure Videos
 Learn to administer compute instances using a range of tools and solutions provided to support your cloud solution in Oracle Cloud infrastructure.
 
-[![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
+[![](../common/images/enabociutil_tmp.png)](https://youtu.be/EV4ihmXZSUI)
+[![](../common/images/getstartosm_tmp.png)](https://youtu.be/7qmy5VusYKA)
+[![](../common/images/autolinosm_tmp.png)](https://youtu.be/Mt_zmEJ1UtM)
+[![](../common/images/migautolinosm_tmp.png)](https://youtu.be/vNY4jelIdgk)
+[![](../common/images/getstartosmwin_tmp.png)](https://youtu.be/DpAE_RhmRWg)
+[![](../common/images/useosm_tmp.png)](https://youtu.be/txStsCT1onc)
+[![](../common/images/comprpt_tmp.png)](https://youtu.be/_pKnAcA7GUs)
+[![](../common/images/instpatc_tmp.png)](https://youtu.be/4eDTl5fPNKA)
+[![](../common/images/kspliceoci_tmp.png)](https://youtu.be/79OMXQwUhoE)
+[![](../common/images/guivnc_tmp.png)](https://youtu.be/B6et8JZFylA)
+[![](../common/images/accwin_tmp.png)](https://youtu.be/d1fgBuE1GMY)
+[![](../common/images/instvboxoci_tmp.png)](https://youtu.be/JFVlp5vS_3g)
 
 ### Linux on Oracle Cloud Infrastructure Hands On Labs
 
