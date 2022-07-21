@@ -13,7 +13,7 @@ Learn to provision and launch compute instances with the cloud web console to su
 
 [![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
 [![](../common/images/creatAutoLinxInst_tmp.png)](https://youtu.be/eKQ6h7Onr-8)
-[![](../common/images/creatWinInst_tmp.pn)](https://youtu.be/8SgkZTUKwFg)
+[![](../common/images/creatWinInst_tmp.png)](https://youtu.be/8SgkZTUKwFg)
 [![](../common/images/TermInst_tmp.png)](https://youtu.be/pRD_yUPuYjs)
 [![](../common/images/detatt_tmp.png)](https://youtu.be/NAWAsx3cKxE)
 [![](../common/images/usebv_tmp.png)](https://youtu.be/4mbAxZBy_es)
