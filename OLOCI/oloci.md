@@ -41,7 +41,11 @@ Learn to administer compute instances using a range of tools and solutions provi
 [![](../common/images/accwin_tmp.png)](https://youtu.be/d1fgBuE1GMY)
 [![](../common/images/instvboxoci_tmp.png)](https://youtu.be/JFVlp5vS_3g)
 
-### Linux on Oracle Cloud Infrastructure Hands On Labs
+### Managing Security and Access to your Cloud Videos
+Learn to secure access to instances and manage traffic between virtual networks in Oracle Cloud Infrastructure.
 
+[![](../common/images/genssh_tmp.png)](https://youtu.be/v5fGdgIrdd0)
+[![](../common/images/netsec_tmp.png)](https://youtu.be/2KBBRnuk-lc)
+[![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)
 
 #### [Return to main page](../README.md)
