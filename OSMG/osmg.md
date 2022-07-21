@@ -12,6 +12,8 @@ On these pages, you will find videos, documents, and other useful resources on t
 ### Installation
 One of the first requirements to use the OS Management Service is to have a running instance of Linux or Windows.
 
+[![](../common/images/creatLinxInst_tmp.png)](https://youtu.be/tlwlLd4GvCc)
+[![](../common/images/creatWinInst_tmp.png)](https://youtu.be/8SgkZTUKwFg)
 
 
 ### Working with OS Management Videos
