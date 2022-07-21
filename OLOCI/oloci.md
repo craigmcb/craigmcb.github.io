@@ -48,4 +48,14 @@ Learn to secure access to instances and manage traffic between virtual networks 
 [![](../common/images/netsec_tmp.png)](https://youtu.be/2KBBRnuk-lc)
 [![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)
 
+### Networking your Oracle Cloud Infrastructure
+Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
+
+[![](../common/images/intronet_tmp.png)](https://youtu.be/mrt2e7yiq5M)
+[![](../common/images/creavcn_tmp.png)](https://youtu.be/DICo2-eRPC4)
+[![](../common/images/confvcn_tmp.png)](https://youtu.be/MtFNdZz20M4)
+[![](../common/images/rmvcn_tmp.png)](https://youtu.be/uy7uVQXSJFc)
+[![](../common/images/add2vnic_tmp.png)](https://youtu.be/AHOx8NV3iYA)
+[![](../common/images/nmoci_tmp.png)](https://youtu.be/ZhbVYs1RBZ8)
+
 #### [Return to main page](../README.md)
