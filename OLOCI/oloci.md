@@ -10,6 +10,10 @@ Get started today and see how your Linux administration helps achieve the benefi
 
 ### Linux on Oracle Cloud Infrastructure Videos
 
+#### Deploying Cloud Components with the Web Console
+Learn to provision and launch compute instances with the cloud web console to support your cloud solution in Oracle Cloud infrastructure.
+
+
 
 ### Linux on Oracle Cloud Infrastructure Hands On Labs
 
