@@ -224,6 +224,19 @@ Take advantage of Linux virtualization and run operating systems as guests withi
 
 ### Container Videos
 
+[![](../common/images/contov_tmp.png)](https://youtu.be/V9sOZHfuvVM)
+[![](../common/images/arecontvm_tmp.png)](https://youtu.be/AvNDTpmHOMk)
+[![](../common/images/instpbs_tmp.png)](https://youtu.be/L9Arzr88p0M)
+[![](../common/images/pull_tmp.png)](https://youtu.be/QmZE-lFNzk4)
+[![](../common/images/usepr_tmp.png)](https://youtu.be/q57hNilpakk)
+[![](../common/images/createlr_tmp.png)](https://youtu.be/8wVmR_5YyCk)
+[![](../common/images/run_tmp.png)](https://youtu.be/PXeKEIdaTBs)
+[![](../common/images/imagelay_tmp.png)](https://youtu.be/i9KKMM0RiDI)
+[![](../common/images/bind_tmp.png)](https://youtu.be/Kw5vdNRRaZc)
+[![](../common/images/vol_tmp.png)](https://youtu.be/qIjTMOfGa_Y)
+[![](../common/images/dfile_tmp.png)](https://youtu.be/AkvluNPzGSY)
+[![](../common/images/chroot_tmp.png)](https://youtu.be/dxzwxvn621w)
+
 ### Kubernetes Videos
 
 ### Virtualization Hands On Lab
