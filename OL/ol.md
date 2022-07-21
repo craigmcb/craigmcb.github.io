@@ -245,6 +245,10 @@ Take advantage of Linux virtualization and run operating systems as guests withi
 
 ### Virtualization Hands On Lab
 
-[![](../common/images/filesystems_lab.png)](https://luna.oracle.com/lab/bbfe7177-f27a-42f5-97cf-95b7027efa26)
+[![](../common/images/podman_lab.png)](https://luna.oracle.com/lab/4fa11b26-6c31-4595-ac00-b6c6af97f417)
+[![](../common/images/stor_podman_lab.png)](https://luna.oracle.com/lab/0dde3b49-0b91-423e-a126-5e718e05ca64)
+[![](../common/images/usecont_lab.png)](https://luna.oracle.com/lab/42ce804b-ce7c-4fc0-9baf-aaccc4d80495)
+[![](../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
+[![](../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
 
 #### [Return to main page](../README.md)
