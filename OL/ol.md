@@ -251,4 +251,8 @@ Take advantage of Linux virtualization and run operating systems as guests withi
 [![](../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 [![](../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
 
+### Virtualization Tutorial
+
+[![](../common/images/)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
+
 #### [Return to main page](../README.md)
