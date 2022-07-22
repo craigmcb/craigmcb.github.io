@@ -48,7 +48,7 @@ Learn to secure access to instances and manage traffic between virtual networks 
 [![](../common/images/netsec_tmp.png)](https://youtu.be/2KBBRnuk-lc)
 [![](../common/images/seclst_tmp.png)](https://youtu.be/1AIXULHjabQ)
 
-### Networking your Oracle Cloud Infrastructure
+### Networking your Oracle Cloud Infrastructure Videos
 Learn to build and administer virtual networks and gateways in Oracle Cloud Infrastructure. Manage instance networking and interfaces.
 
 [![](../common/images/intronet_tmp.png)](https://youtu.be/mrt2e7yiq5M)
@@ -58,7 +58,11 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 [![](../common/images/add2vnic_tmp.png)](https://youtu.be/AHOx8NV3iYA)
 [![](../common/images/nmoci_tmp.png)](https://youtu.be/ZhbVYs1RBZ8)
 
-### Using Storage on Oracle Cloud Infrastructure
+### Networking your Oracle Cloud Infrastructure Hands On Lab
+
+[![](../common/images/vcn_lab.png)](https://luna.oracle.com/lab/5a3f5ad9-7931-43d8-bcdb-40884d6a100f)
+
+### Using Storage on Oracle Cloud Infrastructure Videos
 Learn to discover and administer block volume storage and create shared cluster storage for instances.
 
 [![](../common/images/bvs_tmp.png)](https://youtu.be/_W4TOj_g9bU)
@@ -71,7 +75,14 @@ Learn to discover and administer block volume storage and create shared cluster 
 [![](../common/images/fss_tmp.png)](https://youtu.be/JpC1wO-OFA8)
 [![](../common/images/objstor_tmp.png)](https://youtu.be/o5sb3u-Cb8s)
 
-### KVM Virtualization for Instances
+### Using Storage on Oracle Cloud Infrastructure Hands On Labs
+
+[![](../common/images/bv_lab.png)](https://luna.oracle.com/lab/dd23fba0-9e2b-4a62-b86c-bea4fbc08f9d)
+[![](../common/images/iscsi_lab.png)](https://luna.oracle.com/lab/f85faa38-5476-41a0-951e-56dd86a8ba78)
+[![](../common/images/lsa_lab.png)](https://luna.oracle.com/lab/d57199a3-83f5-4ce9-97f8-feacf9e3db31)
+[![](../common/images/ocfs2_lab.png)](https://luna.oracle.com/lab/a7e62a2a-10d0-4b11-a317-bf559c99b148)
+
+### KVM Virtualization for Instances Videos
 Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.
 
 [![](../common/images/kvmimg_tmp.png)](https://youtu.be/R-zJgRIfil4)
