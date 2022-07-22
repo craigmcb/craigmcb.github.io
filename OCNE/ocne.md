@@ -22,6 +22,12 @@ The following videos will introduce you to the installation procedure and scalin
 [![](../common/images/confile_tmp.png)](https://youtu.be/pfnfu8B3atI)
 [![](../common/images/confileov_tmp.png)](https://youtu.be/n7VhqiiYa1U)
 
+#### Release 1.3
+
+[![](../common/images/getstocne_tmp.png)](https://youtu.be/agoEHX0M7bk)
+[![](../common/images/instocne_tmp.png)](https://youtu.be/bN_SLTGdJJQ)
+[![](../common/images/depkubocne_tmp.png)](https://youtu.be/_dahVFaasAo)
+[![](../common/images/sclkubocne_tmp.png)](https://youtu.be/aVyqWh048yo)
 
 ### Oracle Cloud Native Environment Hands On Labs
 
