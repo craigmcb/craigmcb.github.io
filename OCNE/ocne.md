@@ -13,7 +13,14 @@ On these pages you will find material such as videos, documents and useful resou
 
 Information and videos presented here cover Microservices technologies which are components of the Oracle Cloud Native Environment General Availability announcement, as well as additional technologies to help you expand your learning of microservices.
 
-### Oracle Cloud Native Environment Videos
+### Environment Installation Videos
+The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.
+
+#### Release 1.4 and 1.5
+
+[![](../common/images/instwalk_tmp.png)](https://youtu.be/IuMKKWdDgc4)
+[![](../common/images/confile_tmp.png)](https://youtu.be/pfnfu8B3atI)
+[![](../common/images/confileov_tmp.png)](https://youtu.be/n7VhqiiYa1U)
 
 
 ### Oracle Cloud Native Environment Hands On Labs
