@@ -71,4 +71,11 @@ Learn to discover and administer block volume storage and create shared cluster 
 [![](../common/images/fss_tmp.png)](https://youtu.be/JpC1wO-OFA8)
 [![](../common/images/objstor_tmp.png)](https://youtu.be/o5sb3u-Cb8s)
 
+### KVM Virtualization for Instances
+Learn to implement KVM virtualization in Oracle Linux instances deployed on Oracle Cloud Infrastructure.
+
+[![](../common/images/kvmimg_tmp.png)](https://youtu.be/R-zJgRIfil4)
+[![](../common/images/kvmgst_tmp.png)](https://youtu.be/J3s8Myn7A2o)
+[![](../common/images/ocikvm_tmp.png)](https://youtu.be/IiSsC7EqZSE)
+
 #### [Return to main page](../README.md)
