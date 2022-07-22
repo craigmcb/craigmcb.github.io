@@ -61,7 +61,7 @@ Learn to build and administer virtual networks and gateways in Oracle Cloud Infr
 ### Using Storage on Oracle Cloud Infrastructure
 Learn to discover and administer block volume storage and create shared cluster storage for instances.
 
-[![](../common/images/)](https://youtu.be/_W4TOj_g9bU)
+[![](../common/images/bvs_tmp.png)](https://youtu.be/_W4TOj_g9bU)
 [![](../common/images/ociutilstor_tmp.png)](https://youtu.be/A0cis4ZohVo)
 [![](../common/images/confiscsi_tmp.png)](https://youtu.be/b2Go9QIrOFg)
 [![](../common/images/confocfs_tmp.png)](https://youtu.be/E3pneYLWDFY)
