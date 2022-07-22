@@ -20,7 +20,7 @@ The following videos will introduce you to the installation procedure and scalin
 
 [![](../common/images/instwalk_tmp.png)](https://youtu.be/IuMKKWdDgc4)
 [![](../common/images/confile_tmp.png)](https://youtu.be/pfnfu8B3atI)
-[![](../common/images/)](https://youtu.be/n7VhqiiYa1U)
+[![](../common/images/confileov_tmp.png)](https://youtu.be/n7VhqiiYa1U)
 
 
 ### Oracle Cloud Native Environment Hands On Labs
