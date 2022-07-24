@@ -83,6 +83,31 @@ The following videos will introduce you to the role of Istio in supporting the m
 [![](../common/images/istioeg_tmp.png)](https://youtu.be/MHKc4hfszUI)
 [![](../common/images/istiort_tmp.png)](https://youtu.be/HDagk09TayQ)
 
+### Microservices Tech Preview
+Oracle is actively investigating new microservices technologies permitting you to do research and development. The following videos describe configurations that leverage these technologies intended for pre-production systems.
+
+#### Helm Videos
+Operating as a package manager for Kubernetes, Helm manages the creation of complex, multi-container applications and web services in an existing Oracle Container Services for use with Kubernetes clusters.
+
+The following videos will introduce you to Helm, its components and features, as well as explaining its use of charts, chart repositories and plugins.
+
+[![](../common/images/introhelm_tmp.png)](https://youtu.be/mKNqFyub0mU)
+[![](../common/images/iiihelm_tmp.pn)](https://youtu.be/zOrBVhxOvMU)
+
+#### Prometheus Video
+Operating as an open source monitoring and alerting system. Prometheus uses log collectors for monitoring and performance tuning. Prometheus can gather logs from various metrics and present the data in the form of basic graphs for analysis.
+
+The following video will introduce you to Prometheus, its time-series database and multi-dimensional data model for collecting metrics, as well as describing key steps to installing and running Prometheus.
+
+[![](../common/images/introprom_tmp.png)](https://youtu.be/E2123yZAJ0c)
+
+#### Grafana Video
+Implemented by Dev-Ops teams to collect metrics in their cloud native environments, Grafana operates as an open source analysis and visualization tool for time series data. Using a plugin architecture, it allows for data to be captured across different sources and visualized on dashboards.
+
+The following video will introduce Grafana, cover its installation, and demonstrate its configuration through the browser user interface.
+
+[![](../common/images/grafanaocne_tmp.png)](https://youtu.be/x6nloqYg-4w)
+
 ### Oracle Cloud Native Environment Hands On Labs
 
 
