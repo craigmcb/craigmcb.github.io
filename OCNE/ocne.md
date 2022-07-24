@@ -39,7 +39,7 @@ An open-source system for automating the deployment, scaling and management of c
 
 The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
 
-[![](../common/images/)](https://youtu.be/q2j7jjuBbiM)
+[![](../common/images/introkubocne_tmp.png)](https://youtu.be/q2j7jjuBbiM)
 [![](../common/images/kubarchocne_tmp.png)](https://youtu.be/H2rAeWkxp1Y)
 [![](../common/images/kubectlocne_tmp.png)](https://youtu.be/0pa4rlFbFdk)
 [![](../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
