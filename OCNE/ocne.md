@@ -45,6 +45,15 @@ The following videos will introduce you to the Kubernetes cluster technology and
 [![](../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
 [![](../common/images/kubres_tmp.png)](https://youtu.be/e5m3TlvM4y4)
 
+### Kata Container Videos
+Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
+
+The following videos will introduce you to Kata Containers functionality and demonstrate how Kata Containers are deployed in your Kubernetes cluster.
+
+[![](../common/images/kataovr_tmp.png)](https://youtu.be/0P2kQMCssm4)
+[![](../common/images/katadep_tmp.png)](https://youtu.be/iUbs38MKcdI)
+[![](../common/images/katadeplbls_tmp.png)](https://youtu.be/zsTuPQ88qxc)
+
 ### Container Videos
 Podman provides a way to build, share and run containers conforming to the the Open Containers Initiative (OCI) format.
 
