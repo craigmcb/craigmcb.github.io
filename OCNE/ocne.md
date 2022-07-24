@@ -39,11 +39,11 @@ An open-source system for automating the deployment, scaling and management of c
 
 The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
 
-[![](../common/images/introkubocne_tmp.png)](
-[![](../common/images/kubarchocne_tmp.png)](
-[![](../common/images/kubectlocne_tmp.png)](
-[![](../common/images/)](
-[![](../common/images/)](
+[![](../common/images/introkubocne_tmp.png)](https://youtu.be/q2j7jjuBbiM)
+[![](../common/images/kubarchocne_tmp.png)](https://youtu.be/H2rAeWkxp1Y)
+[![](../common/images/kubectlocne_tmp.png)](https://youtu.be/0pa4rlFbFdk)
+[![](../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
+[![](../common/images/kubres_tmp.png)](https://youtu.be/e5m3TlvM4y4)
 
 
 ### Oracle Cloud Native Environment Hands On Labs
