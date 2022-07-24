@@ -92,7 +92,7 @@ Operating as a package manager for Kubernetes, Helm manages the creation of comp
 The following videos will introduce you to Helm, its components and features, as well as explaining its use of charts, chart repositories and plugins.
 
 [![](../common/images/introhelm_tmp.png)](https://youtu.be/mKNqFyub0mU)
-[![](../common/images/iiihelm_tmp.pn)](https://youtu.be/zOrBVhxOvMU)
+[![](../common/images/iiihelm_tmp.png)](https://youtu.be/zOrBVhxOvMU)
 
 #### Prometheus Video
 Operating as an open source monitoring and alerting system. Prometheus uses log collectors for monitoring and performance tuning. Prometheus can gather logs from various metrics and present the data in the form of basic graphs for analysis.
