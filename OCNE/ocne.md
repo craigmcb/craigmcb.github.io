@@ -34,6 +34,18 @@ The following videos will introduce you to the installation procedure and scalin
 [![](../common/images/deployocne_tmp.png)](https://youtu.be/M1WyPPxEM1U)
 [![](../common/images/scaleocne_tmp.png)](https://youtu.be/AmAOBb-dk-4)
 
+### Kubernetes Videos
+An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
+
+The following videos will introduce you to the Kubernetes cluster technology and its components. They show how a Kubernetes cluster is built, and how container applications in pods are deployed on the cluster nodes.
+
+[![](../common/images/introkubocne_tmp.png)](
+[![](../common/images/kubarchocne_tmp.png)](
+[![](../common/images/kubectlocne_tmp.png)](
+[![](../common/images/)](
+[![](../common/images/)](
+
+
 ### Oracle Cloud Native Environment Hands On Labs
 
 
