@@ -16,20 +16,20 @@ Information and videos presented here cover Microservices technologies which are
 ### Environment Installation Videos
 The following videos will introduce you to the installation procedure and scaling of the Oracle Cloud Native Environment.
 
-#### Release 1.4 and 1.5
+#### Release 1.4 and 1.5 Videos
 
 [![](../common/images/instwalk_tmp.png)](https://youtu.be/IuMKKWdDgc4)
 [![](../common/images/confile_tmp.png)](https://youtu.be/pfnfu8B3atI)
 [![](../common/images/confileov_tmp.png)](https://youtu.be/n7VhqiiYa1U)
 
-#### Release 1.3
+#### Release 1.3 Videos
 
 [![](../common/images/getstocne_tmp.png)](https://youtu.be/agoEHX0M7bk)
 [![](../common/images/instocne_tmp.png)](https://youtu.be/bN_SLTGdJJQ)
 [![](../common/images/depkubocne_tmp.png)](https://youtu.be/_dahVFaasAo)
 [![](../common/images/sclkubocne_tmp.png)](https://youtu.be/aVyqWh048yo)
 
-#### Release 1.2
+#### Release 1.2 Videos
 
 [![](../common/images/deployocne_tmp.png)](https://youtu.be/M1WyPPxEM1U)
 [![](../common/images/scaleocne_tmp.png)](https://youtu.be/AmAOBb-dk-4)
@@ -70,6 +70,18 @@ The following videos will introduce you to Containers, and demonstrate using Pod
 [![](../common/images/bind_tmp.png)](https://youtu.be/Kw5vdNRRaZc)
 [![](../common/images/vol_tmp.png)](https://youtu.be/qIjTMOfGa_Y)
 [![](../common/images/dfile_tmp.png)](https://youtu.be/AkvluNPzGSY)
+
+### Microservices Traffic Management Videos
+Operating as a service mesh for managing the interaction and operation of services in a microservices architecture. Istio coordinates communication between services, providing service discovery, load balancing, security, recovery, telemetry, and policy enforcement capabilities.
+
+The following videos will introduce you to the role of Istio in supporting the microservices framework. You will learn about the Istio architecture and its sidecar proxy capabilities implemented in a Kubernetes cluster.
+
+[![](../common/images/introistio_tmp.png)](https://youtu.be/yr3rgcR_jwU)
+[![](../common/images/istioarch_tmp.png)](https://youtu.be/67j5pKaezAk)
+[![](../common/images/istioocne_tmp.png)](https://youtu.be/0W5fQnlJppw)
+[![](../common/images/istioing_tmp.png)](https://youtu.be/Fkl7Zzn45X4)
+[![](../common/images/istioeg_tmp.png)](https://youtu.be/MHKc4hfszUI)
+[![](../common/images/istiort_tmp.png)](https://youtu.be/HDagk09TayQ)
 
 ### Oracle Cloud Native Environment Hands On Labs
 
