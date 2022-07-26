@@ -21,9 +21,9 @@ These videos will get you started with the installation and overview of Oracle L
 
 ### Installing Oracle Linux Automation Manager Hands On Lab
 
-[![](../common/images/)](
+[![](../common/images/instolam_lab.png)](https://luna.oracle.com/lab/ecf924b0-a2e1-49eb-8700-8c8bea5d7502)
 
-### Administrating Oracle Linux Automation Manager Videos
+### Administering Oracle Linux Automation Manager Videos
 Learn how to add users, organizations, credentials, and permissions to prepare for running jobs.
 
 [![](../common/images/ucolam_tmp.png)](https://youtu.be/AQk9vJZ2R0Y)
@@ -33,12 +33,11 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 [![](../common/images/acolam_tmp.png)](https://youtu.be/gXSmPoY0BVs)
 [![](../common/images/diolam_tmp.png)](https://youtu.be/Fs3l5P-D_nk)
 
-### Installing Oracle Linux Automation Manager Hands On Lab
+### Administering Oracle Linux Automation Manager Hands On Labs
 
-[![](../common/images/)](
-
-
-### Oracle Linux Automation Manager Hands On Labs
-
+[![](../common/images/writpbolae_lab.png)](https://luna.oracle.com/lab/27118507-76a6-4116-8ae3-eecc5314531e)
+[![](../common/images/autosetolae_lab.png)](https://luna.oracle.com/lab/56b90194-88ab-421e-bc93-2ac708dce6ba)
+[![](../common/images/confpodolae_lab.png)](https://luna.oracle.com/lab/6154cf89-6a6e-45b3-98ad-635979b953e8)
+[![](../common/images/ocidiolae_lab.png)](https://luna.oracle.com/lab/95a9fc4b-56a4-4b89-b8f1-b90489df5340)
 
 #### [Return to main page](../README.md)
