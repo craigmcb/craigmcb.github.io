@@ -19,6 +19,10 @@ These videos will get you started with the installation and overview of Oracle L
 [![](../common/images/instolam_tmp.png)](https://youtu.be/-RCqGHhweo0)
 [![](../common/images/gsolam_tmp.png)](https://youtu.be/EEWdxROy-nM)
 
+### Installing Oracle Linux Automation Manager Hands On Lab
+
+[![](../common/images/)](
+
 ### Administrating Oracle Linux Automation Manager Videos
 Learn how to add users, organizations, credentials, and permissions to prepare for running jobs.
 
@@ -28,6 +32,10 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 [![](../common/images/jtolam_tmp.png)](https://youtu.be/-r9wGs4efYU)
 [![](../common/images/acolam_tmp.png)](https://youtu.be/gXSmPoY0BVs)
 [![](../common/images/diolam_tmp.png)](https://youtu.be/Fs3l5P-D_nk)
+
+### Installing Oracle Linux Automation Manager Hands On Lab
+
+[![](../common/images/)](
 
 
 ### Oracle Linux Automation Manager Hands On Labs
