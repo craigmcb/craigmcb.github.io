@@ -13,7 +13,21 @@ Oracle Linux Automation Manager provides features that allow your organization t
 - Create job templates that specify the projects and playbooks to run
 - Manually launch or schedule the launch of job templates
 
-### Oracle Linux Automation Manager Videos
+### Installing Oracle Linux Automation Manager Videos
+These videos will get you started with the installation and overview of Oracle Linux Automation Manager.
+
+[![](../common/images/instolam_tmp.png)](https://youtu.be/-RCqGHhweo0)
+[![](../common/images/gsolam_tmp.png)](https://youtu.be/EEWdxROy-nM)
+
+### Administrating Oracle Linux Automation Manager Videos
+Learn how to add users, organizations, credentials, and permissions to prepare for running jobs.
+
+[![](../common/images/ucolam_tmp.png)](https://youtu.be/AQk9vJZ2R0Y)
+[![](../common/images/spolam_tmp.png)](https://youtu.be/oDMFXm3HjmA)
+[![](../common/images/piolam_tmp.png)](https://youtu.be/rgvPfRXBaAI)
+[![](../common/images/jtolam_tmp.png)](https://youtu.be/-r9wGs4efYU)
+[![](../common/images/acolam_tmp.png)](https://youtu.be/gXSmPoY0BVs)
+[![](../common/images/diolam_tmp.png)](https://youtu.be/Fs3l5P-D_nk)
 
 
 ### Oracle Linux Automation Manager Hands On Labs
