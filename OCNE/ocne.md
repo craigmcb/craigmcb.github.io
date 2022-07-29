@@ -133,7 +133,4 @@ The following video will introduce Grafana, cover its installation, and demonstr
 
 [![](../common/images/grafanaocne_tmp.png)](https://youtu.be/x6nloqYg-4w)
 
-### Oracle Cloud Native Environment Hands On Labs
-
-
 #### [Return to main page](../README.md)
