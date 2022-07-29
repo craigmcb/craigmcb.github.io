@@ -1,8 +1,8 @@
 
-# Welcome to Oracle Linux Learning Library <a name="top"></a>
-![](common/images/OLL-banner_1200.png)
+# Welcome to Oracle Linux Training Station <a name="top"></a>
+![](common/images/ol-train4.png)
 ---
-This Learning Library provides you with immediate learning opportunities including learning paths of short video demonstrations for:
+Head to the Oracle Linux Training (oltrain) Station to learn about Linux and Virtualization products. The following tracks provides you with immediate learning opportunities consisting of short video demonstrations and hands-on lab exercises for:
 - [Introduction to Oracle Linux](./intro/intro.md): Provides an introduction to Oracle Linux for new developers, students or business people with minimal or no previous knowledge of Oracle Linux.
 ![](common/images/IntroOL.png)
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
