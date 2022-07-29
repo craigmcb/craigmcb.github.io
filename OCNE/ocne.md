@@ -34,6 +34,22 @@ The following videos will introduce you to the installation procedure and scalin
 [![](../common/images/deployocne_tmp.png)](https://youtu.be/M1WyPPxEM1U)
 [![](../common/images/scaleocne_tmp.png)](https://youtu.be/AmAOBb-dk-4)
 
+### Installation Hands On Labs
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+[![](../common/images/deployocne_lab.png)](https://luna.oracle.com/lab/d18fe294-efb5-4498-9e7b-d5cc724d8619)
+[![](../common/images/glusterocne_lab.png)](https://luna.oracle.com/lab/5455954d-142c-4801-9f34-5946ad19573d)
+[![](../common/images/compactocne_lab.png)](https://luna.oracle.com/lab/c1bf32f7-7809-4355-bf83-d3f46797dd02)
+[![](../common/images/loadbalocne_lab.png)](https://luna.oracle.com/lab/5571f277-3eb9-435f-b3b3-fe421fb9747e)
+
+### Installation Tutorials
+Each tutorial provides step-by-step procedures to complete specific tasks but does not provide an environment. Perform these tutorial steps on your own Oracle Linux environment.
+
+[![](../common/images/haocne_tut.png)](https://docs.oracle.com/en/learn/ocne-install-ha/)
+[![](../common/images/operatorlcocne_tut.png)](https://docs.oracle.com/en/learn/ocne-olm/)
+[![](../common/images/scaleocne_tut.png)](https://docs.oracle.com/en/learn/ocne-scale/)
+
+
 ### Kubernetes Videos
 An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
 
