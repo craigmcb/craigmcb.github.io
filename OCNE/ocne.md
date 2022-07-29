@@ -49,7 +49,6 @@ Each tutorial provides step-by-step procedures to complete specific tasks but do
 [![](../common/images/operatorlcocne_tut.png)](https://docs.oracle.com/en/learn/ocne-olm/)
 [![](../common/images/scaleocne_tut.png)](https://docs.oracle.com/en/learn/ocne-scale/)
 
-
 ### Kubernetes Videos
 An open-source system for automating the deployment, scaling and management of containerized applications, Kubernetes provides the tools to build a cluster of systems to support the launching of containerized applications. These containers can be deployed across the cluster systems and scaled as needed.
 
@@ -60,6 +59,11 @@ The following videos will introduce you to the Kubernetes cluster technology and
 [![](../common/images/kubectlocne_tmp.png)](https://youtu.be/0pa4rlFbFdk)
 [![](../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
 [![](../common/images/kubres_tmp.png)](https://youtu.be/e5m3TlvM4y4)
+
+### Kubernetes Hands On Lab
+Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
+
+[![](../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
 
 ### Kata Container Videos
 Kata Container software delivers the framework for creating lightweight virtual machines (VMs) that easily plug into container ecosystems. Kata Containers offer similar virtual machine levels of security while maintaining the efficiencies gained from the deployment of traditional containers.
