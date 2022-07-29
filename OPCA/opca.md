@@ -27,7 +27,25 @@ This section provides video training for Day 0 configuration and for administrat
 [![](../common/images/lokipca_tmp.png)](https://youtu.be/HiGz8ruDtas)
 [![](../common/images/alertspca_tmp.png)](https://youtu.be/Qmj_V8TAQXs)
 
-### Oracle Private Cloud Appliance Videos
+## Compute Enclave Tasks
+The Compute Enclave offers functionality to users of the cloud environment, and are very similar in operation to the corresponding Oracle Cloud Infrastructure services. Users of the Compute Enclave have certain permissions to enable the deployment of customer workloads through compute instances and associated resources. Cloud services include the compute and storage services, identity and access management, and networking.
 
+To access the Compute Enclave, you use either the Compute Web UI or OCI CLI.
+
+### Compute Enclave Tasks Videos
+This section provides video training for administrator and user tasks performed from the Compute Enclave.
+
+[![](../common/images/instociclipca_tmp.png)](https://youtu.be/SNtGCBl_yZE)
+[![](../common/images/confociclipca_tmp.png)](https://youtu.be/x2iWGXIa-rQ)
+[![](../common/images/usergrppca_tmp.png)](https://youtu.be/D0CxmJ6pn4U)
+[![](../common/images/createvcnpca_tmp.png)](https://youtu.be/OCasg_HQ3LI)
+[![](../common/images/compinstpca_tmp.png)](https://youtu.be/lxD2w1Chyxg)
+[![](../common/images/instconfpca_tmp.png)](https://youtu.be/B4aW0hzDfc4)
+[![](../common/images/federatingpca_tmp.png)](https://youtu.be/tsBn5UQSJ24)
+[![](../common/images/trustedrelypca_tmp.png)](https://youtu.be/wWm4TrPoEtI)
+[![](../common/images/sscpca_tmp.png)](https://youtu.be/uZcQk0pUe3s)
+[![](../common/images/instpoolpca_tmp.png)](https://youtu.be/VfSKX7WxNX8)
+[![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
+[![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
 
 #### [Return to main page](../README.md)
