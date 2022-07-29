@@ -27,3 +27,17 @@ This Learning Library provides you with immediate learning opportunities includi
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+# License
+
+Copyright &copy; 2022 Oracle and/or its associates.
+
+All content in this repository is distributed under the [Universal Permissive
+License 1.0](https://oss.oracle.com/licenses/upl/).
+
+[Vagrant by HashiCorp](https://www.vagrantup.com/) is distributed under the
+[MIT License](https://github.com/hashicorp/vagrant/blob/master/LICENSE).
+
+[Ruby](https://www.ruby-lang.org/en/) is distributed under the terms of the
+[2-clause BSD License](https://opensource.org/licenses/BSD-2-Clause) or the
+conditions listed in the [Ruby `license.txt` file](https://www.ruby-lang.org/en/about/license.txt).
