@@ -36,4 +36,11 @@ The following content will introduce you to Oracle Linux Virtualization Manager 
 [![](../common/images/createvmsnapolvm_tmp.png)](https://youtu.be/s9u5gRQPSjQ)
 [![](../common/images/restvmsnapolvm_tmp.png)](https://youtu.be/KV-1cCFg4NU)
 
+### Managing Storage Videos
+The following content will introduce you to storage concepts and how to create, attach and maintain various storage types in your Oracle Linux Virtualization Manager enterprise environment.
+
+[![](../common/images/iscsiolvm_tmp.png)](https://youtu.be/EeOL9wjwoMU)
+[![](../common/images/nfsolvm_tmp.png)](https://youtu.be/NRQ2KVaLHOw)
+[![](../common/images/upresdssolvm_tmp.png)](https://youtu.be/KE3uuQObJZw)
+
 #### [Return to main page](../README.md)
