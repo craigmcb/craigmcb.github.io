@@ -10,6 +10,22 @@ On these pages you will find material such as videos, documents and useful resou
 
 Information and videos presented here cover technologies and components to help you expand your learning of the Oracle Linux Virtualization Manager system.
 
+### Administration and Deployment Videos
+The following content will introduce you to the administration of the Oracle Linux Virtualization Manager environment as well as the deployment of hosts and architectural resources.
+
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+[![](../common/images/)](
+
 ### Oracle Linux Virtualization Manager Videos
 
 
