@@ -26,7 +26,14 @@ The following content will introduce you to the administration of the Oracle Lin
 [![](../common/images/migrateVMKVMolvm_tmp.png)](https://youtu.be/DqUi9dOInts)
 [![](../common/images/migrateovirtolvm_tmp.png)](https://youtu.be/Gs7qKGd4iTM)
 
-### Oracle Linux Virtualization Manager Videos
+### Managing Virtual Machines Videos
+The following content will introduce you to Oracle Linux Virtualization Manager Virtual Machine implementation and demonstrates deployment of VMs through the Administration Portal and VM Portal graphical interfaces.
 
+[![](../common/images/createvmolvm_tmp.png)](https://youtu.be/clYVICSQ4MY)
+[![](../common/images/createtempolvm_tmp.png)](https://youtu.be/QbJV0VfXpg8)
+[![](../common/images/createvmtempolvm_tmp.png)](https://youtu.be/WikfPdtbwEs)
+[![](../common/images/expasovasolvm_tmp.png)](https://youtu.be/G-GfXxfCI-Q)
+[![](../common/images/createvmsnapolvm_tmp.png)](https://youtu.be/s9u5gRQPSjQ)
+[![](../common/images/restvmsnapolvm_tmp.png)](https://youtu.be/KV-1cCFg4NU)
 
 #### [Return to main page](../README.md)
