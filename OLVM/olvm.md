@@ -43,4 +43,9 @@ The following content will introduce you to storage concepts and how to create, 
 [![](../common/images/nfsolvm_tmp.png)](https://youtu.be/NRQ2KVaLHOw)
 [![](../common/images/upresdssolvm_tmp.png)](https://youtu.be/KE3uuQObJZw)
 
+### Backup and Recovery Videos
+The following content will introduce you to Oracle Linux Virtualization Manager backup and recovery solutions.
+
+[![](../common/images/drolvm_tmp.png)](https://youtu.be/0VSo7ZGIdo8)
+
 #### [Return to main page](../README.md)
