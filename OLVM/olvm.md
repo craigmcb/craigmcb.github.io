@@ -13,18 +13,18 @@ Information and videos presented here cover technologies and components to help 
 ### Administration and Deployment Videos
 The following content will introduce you to the administration of the Oracle Linux Virtualization Manager environment as well as the deployment of hosts and architectural resources.
 
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
-[![](../common/images/)](
+[![](../common/images/usergroups_tmp.png)](https://youtu.be/oAfSLvIsUac)
+[![](../common/images/rolesperm_tmp.png)](https://youtu.be/zjXX8EYIBzA)
+[![](../common/images/addkvmhost_tmp.png)](https://youtu.be/qMbUVnCbW7g)
+[![](../common/images/createvcnolvm_tmp.png)](https://youtu.be/RV6BSBOyjDU)
+[![](../common/images/buprestolvm_tmp.png)](https://youtu.be/j-BWLlD2yfI)
+[![](../common/images/upgkvmhostolvm_tmp.png)](https://youtu.be/T07HSTrODRw)
+[![](../common/images/vlansolvm_tmp.png)](https://youtu.be/K-l7siJcDwI)
+[![](../common/images/restapiolvm_tmp.png)](https://youtu.be/lk2kIUE-QU4)
+[![](../common/images/backupapiolvm_tmp.png)](https://youtu.be/aLvNcNd5r50)
+[![](../common/images/hyperconvolvm_tmp.png)](https://youtu.be/FPHRC5mCxgQ)
+[![](../common/images/migrateVMKVMolvm_tmp.png)](https://youtu.be/DqUi9dOInts)
+[![](../common/images/migrateovirtolvm_tmp.png)](https://youtu.be/Gs7qKGd4iTM)
 
 ### Oracle Linux Virtualization Manager Videos
 
