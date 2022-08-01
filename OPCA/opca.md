@@ -1,8 +1,8 @@
 
-# Welcome to Oracle Private Cloud Appliance Training
+# Welcome to Oracle Private Cloud Appliance Track
 ![](../common/images/PCA_header4.png)
 ---
-This site contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.
+This track contains videos to facilitate your learning of the administrative and user tasks performed with the technologies and tools of the Oracle Private Cloud Appliance.
 
 On these pages you will find material such as videos, documents and useful resource links covering areas including the following:
 - Tasks performed from the Service Enclave.
@@ -48,4 +48,4 @@ This section provides video training for administrator and user tasks performed 
 [![](../common/images/blkvolpca_tmp.png)](https://youtu.be/s5N6mGxUNew)
 [![](../common/images/bootvolpca_tmp.png)](https://youtu.be/Vo4119i8HsU)
 
-#### [Return to main page](../README.md)
+#### [Return to Oracle Linux Training Station](../README.md)
