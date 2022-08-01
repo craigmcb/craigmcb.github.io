@@ -1,8 +1,5 @@
 ## Introduction to Oracle Linux Videos
-On these pages, you will find videos, documents and other useful resources on topics such as:
-
-- Technologies and components included in Oracle Linux 
-- Using the most common tools and features of Linux
+On this track you will learn technologies and components included in Oracle Linux and common tools and features of Linux.
 
 [![](../../common/images/why_tmp.png)](https://youtu.be/GzON3q8S00Y)
 [![](../../common/images/intro_install_tmp.png)](https://youtu.be/dvvP4wpsAQI)
