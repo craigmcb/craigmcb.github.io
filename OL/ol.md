@@ -12,28 +12,11 @@ On these pages, you will find videos, documents and other useful resources on to
 - [Networking](./network/network.md): This track focus on the configuration files, firewalls, and command line utilities to get a Linux system online. Take this track to learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
 - [Package Management](./pkg_mgmt/pkg_mgmt.md): This track focus on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM, and in this track, we cover how to use DNF, install the Oracle UEK kernel and how to add repositories.
 - [Oracle Ksplice](./ksplice/ksplice.md): In this track you will learn to install, configure and use Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
+- [Remote Management](./rem_mgmt/rem_mgmt.md): When working with Oracle Linux, the environment you are accessing is not always physically accessible. In those cases, you need to know how to administer your environment remotely. In this track you will learn how to establish secure connections to remote Oracle Linux systems. With secure connections, all traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.
 - 
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
 
-
-## Remote Management
-When working with Oracle Linux, the environment you are accessing is not always physically accessible via a monitor, keyboard, and mouse. In those cases, you need to know how to administer your environment remotely.
-
-### Remote Management Videos
-Watch these short videos on how to establish secure connections to remote Oracle Linux 8 systems. With secure connections, all traffic transmitted over the wire is encrypted and protected from password sniffing attacks and other outside monitoring.
-
-[![](../common/images/proxyjump_tmp.png)](https://youtu.be/QKZP9FbP3mo)
-[![](../common/images/sshclient_tmp.png)](https://youtu.be/om93ySvpBWE)
-[![](../common/images/sshtunnel_tmp.png)](https://youtu.be/NRL_wXqnQeo)
-[![](../common/images/sshansible_tmp.png)](https://youtu.be/ij8z9uqRg28)
-[![](../common/images/vncserver_tmp.png)](https://youtu.be/Z5vhER7K34E)
-[![](../common/images/gnome3_tmp.png)](https://youtu.be/9mToAwfCZik)
-
-### Remote Management Hands On Lab
-Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
-
-[![](../common/images/sshtunnels_lab.png)](https://luna.oracle.com/lab/d1dc0830-fe30-48d4-8e5c-d30ad525e36e)
 
 ## Storage Management
 Whether manually partitioning your primary disk, adding additional disks for storage, or creating shared storage, working with disks is a skill all Linux Administrators should know.
