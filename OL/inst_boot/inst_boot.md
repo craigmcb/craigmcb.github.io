@@ -18,4 +18,6 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/systemd_lab.png)](https://luna.oracle.com/lab/8a060473-bff3-4c04-9799-eb944951007c)
 [![](../../common/images/centos.png)](https://luna.oracle.com/lab/ee1c4ab9-010f-4b3c-bd1e-cdcca57800a2)
 
-#### [Return to Oracle Linux Train Station](../../README.md)
+#### [Return to Oracle Linux Track](../ol.md)
+
+#### [Return to Oracle Linux Training Station](../../README.md)
