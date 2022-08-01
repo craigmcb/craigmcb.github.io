@@ -37,23 +37,26 @@
 [![](../../common/images/dfile_tmp.png)](https://youtu.be/AkvluNPzGSY)
 [![](../../common/images/chroot_tmp.png)](https://youtu.be/dxzwxvn621w)
 
+## Container Hands On Labs
+
+[![](../../common/images/podman_lab.png)](https://luna.oracle.com/lab/4fa11b26-6c31-4595-ac00-b6c6af97f417)
+[![](../../common/images/stor_podman_lab.png)](https://luna.oracle.com/lab/0dde3b49-0b91-423e-a126-5e718e05ca64)
+[![](../../common/images/usecont_lab.png)](https://luna.oracle.com/lab/42ce804b-ce7c-4fc0-9baf-aaccc4d80495)
+
+## Container Tutorial
+
+[![](../../common/images/multi_lab.png)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
+
 ## Kubernetes Videos
 
 [![](../../common/images/tour_tmp.png)](https://youtu.be/syBe1H-qe8U)
 [![](../../common/images/kubres_tmp.png)](https://youtu.be/e5m3TlvM4y4)
 [![](../../common/images/minikub_tmp.png)](https://youtu.be/u1qY8ax0U44)
 
-## Virtualization Hands On Lab
+## Kubernetes Hands On Labs
 
-[![](../../common/images/podman_lab.png)](https://luna.oracle.com/lab/4fa11b26-6c31-4595-ac00-b6c6af97f417)
-[![](../../common/images/stor_podman_lab.png)](https://luna.oracle.com/lab/0dde3b49-0b91-423e-a126-5e718e05ca64)
-[![](../../common/images/usecont_lab.png)](https://luna.oracle.com/lab/42ce804b-ce7c-4fc0-9baf-aaccc4d80495)
 [![](../../common/images/mini_lab.png)](https://luna.oracle.com/lab/8b2f7860-3204-4cd3-8d55-3f6de9ca03c2)
 [![](../../common/images/runkub_lab.png)](https://luna.oracle.com/lab/01e69515-8cda-4d6e-89af-849f324c4b7f)
-
-## Virtualization Tutorial
-
-[![](../../common/images/multi_lab.png)](https://docs.oracle.com/en/learn/oracle-linux-platform-images/index.html)
 
 #### [Return to Oracle Linux Track](../ol.md)
 
