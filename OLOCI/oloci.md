@@ -1,8 +1,8 @@
 
-# Welcome to Linux on Oracle Cloud Infrastructure Training
+# Welcome to the Linux on Oracle Cloud Infrastructure Track
 ![](../common/images/OLCI-1200x200-banner.png)
 ---
-This site provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.
+This track provides an elearning path with step-by-step instructions and guidance for using Linux on Oracle Cloud Infrastructure.
 
 As a Linux administrator, we walk you through building your first components on the Oracle Cloud Infrastructure and help you acquire deeper knowledge about Linux and Cloud deployment.
 
@@ -89,4 +89,4 @@ Learn to implement KVM virtualization in Oracle Linux instances deployed on Orac
 [![](../common/images/kvmgst_tmp.png)](https://youtu.be/J3s8Myn7A2o)
 [![](../common/images/ocikvm_tmp.png)](https://youtu.be/IiSsC7EqZSE)
 
-#### [Return to main page](../README.md)
+#### [Return to Oracle Linux Training Station](../README.md)
