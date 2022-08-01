@@ -10,6 +10,10 @@
 [![](../../common/images/convert_tmp.png)](https://youtu.be/7gZLiTa3150)
 [![](../../common/images/adddisk_tmp.png)](https://youtu.be/B3h_DWOMwrk)
 
+## KVM Hands On Lab
+
+[![](../../common/images/createvmkvm_lab.png)](https://luna.oracle.com/lab/1671b073-895c-4800-bd60-cfe1f445074c)
+
 ## VirtualBox Videos
 
 [![](../../common/images/instVB_tmp.png)](https://youtu.be/Dl2CxAoSC5o)
