@@ -1,8 +1,8 @@
 
-# Welcome to Oracle Linux Automation Manager Training
+# Welcome to Oracle Linux Automation Manager Track
 ![](../common/images/OLAM-banner.jpg)
 ---
-This site provides free training to help introduce you to Oracle Linux Automation Manager and improve your skills with its automation tools.
+This track provides free training to help introduce you to Oracle Linux Automation Manager and improve your skills with its automation tools.
 
 The Oracle Linux Automation Engine is an automation tool for deploying software, configuring systems, and orchestrating tasks such as upgrades and updates, in the form of playbooks.
 
@@ -40,4 +40,4 @@ Learn how to add users, organizations, credentials, and permissions to prepare f
 [![](../common/images/confpodolae_lab.png)](https://luna.oracle.com/lab/6154cf89-6a6e-45b3-98ad-635979b953e8)
 [![](../common/images/ocidiolae_lab.png)](https://luna.oracle.com/lab/95a9fc4b-56a4-4b89-b8f1-b90489df5340)
 
-#### [Return to main page](../README.md)
+#### [Return to Oracle Linux Training Station](../README.md)
