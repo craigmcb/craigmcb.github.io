@@ -6,59 +6,20 @@ This site is the place to explore Oracle Linux to help you grow your skillset us
 
 On these pages, you will find videos, documents and other useful resources on topics such as: Installing the Operating System, Technologies and components included in the Oracle Linux operating environment, Building systems to suit your needs, whether development or production, physical or virtual, Applying resources using fully-featured enterprise software
 
-- [Installation and Boot Process](./inst_boot/inst_boot.md): This track focus on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
-- [Administration](./admin/admin.md): This track focus on common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, configure networking, and explore the proc and sysfs file systems to view and configure system hardware and system processes.
+- [Installation and Boot Process](./inst_boot/inst_boot.md): This track focus on the installation and boot process. Take this track to learn how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
+- [Administration](./admin/admin.md): This track focus on common administration tasks that you can perform on Oracle Linux. Take this track to learn how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, and explore the proc and sysfs file systems to view and configure system hardware and system processes.
 - [Monitoring and Logging](./mon_log/mon_log.md): This track focus on typical monitoring and logging tasks performed on a Linux system. Take this track to learn how to monitor system performance and review system logs on Oracle Linux.
+- [Networking](./network/network.md): This track focus on the configuration files, firewalls, and command line utilities to get a Linux system online. Take this track to learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
+
+
 - 
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
 
 
 
-## Monitoring and Logging
-Learn how to monitor system performance and review system logs on Oracle Linux.
 
-### Monitoring and Logging Videos
-These videos go through typical monitoring and logging tasks performed on a Linux system.
 
-[![](../common/images/sos_tmp.png)](https://youtu.be/FD-wgH4xhJI)
-[![](../common/images/iostat_tmp.png)](https://youtu.be/BCb1Il1hpgY)
-[![](../common/images/mpstat_tmp.png)](https://youtu.be/ioAP964a_Q0)
-[![](../common/images/vmstat_tmp.png)](https://youtu.be/WGOWGJGFlvU)
-[![](../common/images/top_tmp.png)](https://youtu.be/t3JZ8Tcw7fo)
-[![](../common/images/netstat_tmp.png)](https://youtu.be/ucWjQafk1fk)
-[![](../common/images/rsyslog_tmp.png)](https://youtu.be/Xxk2bbiwr6M)
-[![](../common/images/logwatch_tmp.png)](https://youtu.be/jfdcGZJIuLk)
-[![](../common/images/journald_tmp.png)](https://youtu.be/YAMF3ewtfa4)
-[![](../common/images/audit_tmp.png)](https://youtu.be/AKwV0DHt6oA)
-
-### Monitoring and Logging Hands On Labs
-Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
-
-[![](../common/images/monitor_lab.png)](https://luna.oracle.com/lab/73bf7efa-53a1-4528-ad60-5f7b721fc3f8)
-[![](../common/images/logging_lab.png)](https://luna.oracle.com/lab/3f0906f5-a80e-418b-a8b4-48c60103c55c)
-[![](../common/images/audit_lab.png)](https://luna.oracle.com/lab/3a72b337-d8c0-41b9-9193-e1bf50ad2ac9)
-
-## Networking
-Learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
-
-### Networking Videos
-These videos go through the configuration files, firewalls, and command line utilities to get a Linux system online.
-
-[![](../common/images/netfiles_tmp.png)](https://youtu.be/xCH9WoU96RQ)
-[![](../common/images/mncli_tmp.png)](https://youtu.be/EkI3RKl4loE)
-[![](../common/images/bonding_tmp.png)](https://youtu.be/u9UnwWFpY94)
-[![](../common/images/vlans_tmp.png)](https://youtu.be/JcqXcGfjD0E)
-[![](../common/images/ip_tmp.png)](https://youtu.be/JcipLuWymNc)
-[![](../common/images/firewalld_tmp.png)](https://youtu.be/GPHxVRPUs9o)
-[![](../common/images/nftables_tmp.png)](https://youtu.be/tFdc_iVKXMs)
-
-### Networking Hands On Labs
-Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
-
-[![](../common/images/nwm_lab.png)](https://luna.oracle.com/lab/6cbaab1f-835c-445e-89eb-b42ba3e679bb/steps)
-[![](../common/images/bond_lab.png)](https://luna.oracle.com/lab/fc37cd13-6a90-49df-adc1-6c3b40239265)
-[![](../common/images/vlan_lab.png)](https://luna.oracle.com/lab/e8070728-d90b-41c9-8984-e4b1d98cee88)
 
 ## Package Management
 Software package management is an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches.
