@@ -1,5 +1,5 @@
 
-# Welcome to Oracle Linux Training
+# Welcome to the Oracle Linux Track
 ![](../common/images/OL-1200x200-banner.png)
 ---
 This site is the place to explore Oracle Linux to help you grow your skillset using free videos and hands-on tutorials and labs. Whether you are working with traditional, cloud-based, or virtual environments, these skills will progress your knowledge into becoming a better Oracle Linux End-user, DevOps, or System Administrator.
@@ -7,7 +7,7 @@ This site is the place to explore Oracle Linux to help you grow your skillset us
 On these pages, you will find videos, documents and other useful resources on topics such as: Installing the Operating System, Technologies and components included in the Oracle Linux operating environment, Building systems to suit your needs, whether development or production, physical or virtual, Applying resources using fully-featured enterprise software
 
 - [Installation and Boot Process](./inst_boot/inst_boot.md): This track focus on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux installation for on-premises deployment and how to create an Oracle Linux instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
-- 
+- [Administration](./admin/admin.md): This track focus on common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, configure networking, and explore the proc and sysfs file systems to view and configure system hardware and system processes.
 - 
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
