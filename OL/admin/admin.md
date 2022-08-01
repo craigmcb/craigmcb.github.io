@@ -1,5 +1,5 @@
 ## Administration Videos
-These short videos go through some common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, configure networking, and explore the proc and sysfs file systems to view and configure system hardware and system processes. These tasks are applicable for on-premises systems or Oracle Cloud Infrastructure instances.
+These short videos go through some common administration tasks that you can perform on Oracle Linux. You can learn step-by-step how to configure the system date and time, automate tasks, dynamically load and unload kernel modules, configure users and groups, and explore the proc and sysfs file systems to view and configure system hardware and system processes. These tasks are applicable for on-premises systems or Oracle Cloud Infrastructure instances.
 
 [![](../../common/images/datetime_tmp.png)](https://youtu.be/q8VlYiF5sx8)
 [![](../../common/images/procfs_tmp.png)](https://youtu.be/1F51ZHAVfAk)
