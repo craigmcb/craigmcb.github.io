@@ -1,14 +1,9 @@
-# Welcome to Introduction to Oracle Linux Training
-![](../common/images/IntroOL.png)
----
-New to Linux, or have a little experience working with the Linux operating system?
-This site will help you grow your skillset in installing and using Linux. These training materials and resources will build your knowledge on your journey to becoming a better Oracle Linux End-user or System Administrator.
+## Introduction to Oracle Linux Videos
 On these pages, you will find videos, documents and other useful resources on topics such as:
 
 - Technologies and components included in Oracle Linux 
 - Using the most common tools and features of Linux
 
-### Introduction to Oracle Linux Videos
 [![](../common/images/why_tmp.png)](https://youtu.be/GzON3q8S00Y)
 [![](../common/images/intro_install_tmp.png)](https://youtu.be/dvvP4wpsAQI)
 [![](../common/images/shell_tmp.png)](https://youtu.be/QQSI_901fUU)
@@ -27,7 +22,7 @@ On these pages, you will find videos, documents and other useful resources on to
 [![](../common/images/tools_tmp.png)](https://youtu.be/ZXO4hqoO52o)
 [![](../common/images/script_tmp.png)](https://youtu.be/d6ktKrOOkZs)
 
-### Introduction to Oracle Linux Tutorial
+## Introduction to Oracle Linux Tutorial
 This tutorial provides step-by-step procedures to complete specific tasks on your own Oracle Linux environment.
 
 [![](../common/images/Intro_tut.png)](https://docs.oracle.com/en/learn/shell-commands-intro-to-oracle-linux/index.html)
