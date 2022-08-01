@@ -24,7 +24,7 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/autofs_lab.png)](https://luna.oracle.com/lab/5847ea10-bead-4dda-be13-72b55551f6a2)
 [![](../../common/images/nfsserver_lab.png)](https://luna.oracle.com/lab/3e7b391f-db29-405d-85bc-b70ad5753dd4)
 [![](../../common/images/diskencryt_lab.png)](https://luna.oracle.com/lab/e348bfed-8e08-4b12-8114-74e87eb12497)
-[![](../../common/images/gluster_lab.png)](https://luna.oracle.com/lab/4de49ca0-6b00-4c69-95a7-a60a4b21ab78)
+[![](../../common/images/glusteronol_lab.png)](https://luna.oracle.com/lab/4de49ca0-6b00-4c69-95a7-a60a4b21ab78)
 [![](../../common/images/btrfs_lab.png)](https://luna.oracle.com/lab/03f1fb2b-d4ef-4d1e-8a12-793cb3e3ffd8)
 [![](../../common/images/hanfsserver_lab.png)](https://luna.oracle.com/lab/2bf5d9a2-7afc-4286-97ef-386427e3ebea)
 [![](../../common/images/raidlvm_lab.png)](https://luna.oracle.com/lab/2edede28-75f0-4046-8567-4cfd1596f931)
