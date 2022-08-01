@@ -1,7 +1,4 @@
-## Installation
-One of the first skills to learn is how to install Oracle Linux.
-
-### Installation Videos
+## Installation and Boot Process Videos
 These videos focus on the installation and boot process. You can learn step-by-step how to complete an Oracle Linux 8 installation for on-premises deployment and how to create an Oracle Linux 8 instance on Oracle Cloud Infrastructure. You can also learn about the boot process and how to configure different services to start at boot time.
 
 [![](../../common/images/install_tmp.png)](https://youtu.be/l6fapYCHaQ0)
@@ -12,7 +9,7 @@ These videos focus on the installation and boot process. You can learn step-by-s
 [![](../../common/images/systemd_tmp.png)](https://youtu.be/9uDvnZKhU8A)
 [![](../../common/images/sysdtrgs_tmp.png)](https://youtu.be/Tkxs-wfZrnw)
 
-### Installation Hands On Labs
+## Installation and Boot Process Hands On Labs
 Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
 
 [![](../../common/images/boot_kernel.png)](https://luna.oracle.com/lab/67f106f2-8c50-442c-b24f-108b806be84f)
