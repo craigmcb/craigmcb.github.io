@@ -11,29 +11,11 @@ On these pages, you will find videos, documents and other useful resources on to
 - [Monitoring and Logging](./mon_log/mon_log.md): This track focus on typical monitoring and logging tasks performed on a Linux system. Take this track to learn how to monitor system performance and review system logs on Oracle Linux.
 - [Networking](./network/network.md): This track focus on the configuration files, firewalls, and command line utilities to get a Linux system online. Take this track to learn how to connect Oracle Linux to the network. Being able to configure networks is an essential skill to access programs, storage and data on remote systems.
 - [Package Management](./pkg_mgmt/pkg_mgmt.md): This track focus on software package management, an essential skill needed to keep your Oracle Linux system up to date with the latest software enhancements, bug fixes, and security patches. Oracle Linux 8 introduced DNF, which replaces YUM, and in this track, we cover how to use DNF, install the Oracle UEK kernel and how to add repositories.
-
+- [Oracle Ksplice](./ksplice/ksplice.md): In this track you will learn to install, configure and use Oracle Ksplice to provide rebootless kernel and critical user-space updates. Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
 - 
 - [Oracle Linux](./OL/ol.md): Develop Linux skills you can use anywhere; in Oracle Cloud Infrastructure, on premise, or on other public clouds. Become savvy on an operating system that is free to use, free to distribute, free to update and easy to download so you can get started today.
 ![](common/images/OL-1200x200-banner.png)
 
-
-
-
-## Oracle Ksplice
-Oracle Ksplice allows you to install the latest kernel and key user-space security and bug fix updates while the system is running.
-
-### Oracle Ksplice Videos
-Learn to install, configure and use Oracle Ksplice to provide rebootless kernel and critical user-space updates.
-
-[![](../common/images/enableKsplice_tmp.png)](https://youtu.be/mpeew2k-z18)
-[![](../common/images/runKsplice_tmp.png)](https://youtu.be/pl4lJOY5iw4)
-[![](../common/images/runUptrack_tmp.png)](https://youtu.be/-4morE8SQK4)
-[![](../common/images/uninstKsplice_tmp.png)](https://youtu.be/G0j1XYNkomY)
-
-### Oracle Ksplice Hands On Lab
-Each hands-on lab provides step-by-step procedures to complete specific tasks in an Oracle-provided free lab environment. Follow the procedures to connect to your Oracle Linux compute instance on Oracle Cloud Infrastructure and complete the labs. Alternatively, you can perform the lab steps on your own Oracle Linux environment.
-
-[![](../common/images/ksplice_lab.png)](https://luna.oracle.com/lab/7bf9e1e8-691e-42d4-823d-6a0fad49791c)
 
 ## Remote Management
 When working with Oracle Linux, the environment you are accessing is not always physically accessible via a monitor, keyboard, and mouse. In those cases, you need to know how to administer your environment remotely.
