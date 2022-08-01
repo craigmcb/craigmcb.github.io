@@ -30,6 +30,8 @@ Each hands-on lab provides step-by-step procedures to complete specific tasks in
 [![](../../common/images/raidlvm_lab.png)](https://luna.oracle.com/lab/2edede28-75f0-4046-8567-4cfd1596f931)
 [![](../../common/images/swraid_lab.png)](https://luna.oracle.com/lab/2c5aab94-cacb-4978-b0c9-aca5c953f6e4)
 [![](../../common/images/vg_lab.png)](https://luna.oracle.com/lab/ee495d1a-4e00-4d77-9719-2f27591d1ecd)
+[![](../../common/images/aclsol_lab.png)](https://luna.oracle.com/lab/7a272852-6042-47e3-b25f-eb681c733e66)
+[![](../../common/images/luksol_lab.png)](https://luna.oracle.com/lab/9c62956d-153b-4e93-84b0-0b2759f7e4bb)
 
 #### [Return to Oracle Linux Track](../ol.md)
 
